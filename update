@@ -1,0 +1,31 @@
+;aiu;
+
+[1.0.137]
+Name = Need for Speed World Online Installer Version 1.0.0.137
+ProductVersion = 1.0.137.0
+URL = https://github.com/1DavidCarbon/GameLauncherInstaller_NFSW/releases/download/v1.0.137/GameLauncher-installer-prerelease.exe
+Size = 6865565
+ReleaseDate = 20/08/2017
+MD5 = eb81d82c2ccf379f422cd0f70690b947
+ServerFileName = GameLauncher-installer-prerelease.exe
+Flags = Critical|NoCache
+RegistryKey = HKUD\Software\Appveyor\Need for Speedâ„¢ World Online\Version
+Version = 1.0.137.0
+Description = Need For Speed World Game Launcher Installer. 
+Description1 = Game launcher is powered by Metonator.
+Description2 = Installer powered by DavidCarbon.
+Description3 = Server Core Powered by Soapbox Race World.
+Feature = Added support for multi-langaues ,Here's the list:
+Feature1 = English
+Feature2 = Russian
+Feature3 = Spanish
+Feature4 = German
+Feature5 = French
+Feature6 = Turkish
+Feature7 = Installation has gotten speed upgrade....yay
+Enhancement = Added automatic installer updater.
+Enhancement1 = This was done inorder to insure every player is running the lastest and stable version of the Game Launcher.
+Enhancement2 = Downloaded files will be supplied directly from Metonator's page, and minor bug installer fixes will be supplied by DavidCarbon.
+Enhancement3 = Thanks to Carbon Crew Productions and letting us borrow their account server to supply update notification.
+BugFix = Metonator doesn't release patch notes for Game Launcher :P.
+BugFix1 = But the installer package will hopefully will :).

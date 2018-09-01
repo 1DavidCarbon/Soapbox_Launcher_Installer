@@ -1,4 +1,13 @@
 # Installer_NFSW [![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg?branch=master)](https://github.com/1DavidCarbon/Soapbox_Launcher_Installer/releases/latest)
+
+##Known Bugs
+- [X] None...yet
+
+### Screenshot
+![](Soapbox Installer (Lang).PNG)
+![](Soapbox Installer (Dir).PNG)
+![](Soapbox Installer (Launch).PNG)
+
 # GameLauncher_NFSW [![Build Status](https://travis-ci.org/SoapboxRaceWorld/GameLauncher_NFSW.svg?branch=master)](https://travis-ci.org/SoapboxRaceWorld/GameLauncher_NFSW)
 A Rewrite of GameLauncher taken from Need For Speed: World
 

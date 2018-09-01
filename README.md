@@ -4,7 +4,7 @@
 
 - [X] None...yet
 
-### Screenshot
+### Screenshots
 
 ![](https://raw.githubusercontent.com/1DavidCarbon/Soapbox_Launcher_Installer/master/Soapbox%20Installer%20(Lang).PNG)
 

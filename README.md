@@ -24,4 +24,4 @@ A Rewrite of GameLauncher taken from Need For Speed: World
 ### Screenshot
 ![](https://raw.githubusercontent.com/SoapboxRaceWorld/GameLauncher_NFSW/master/screenshot.png)
 
-(Status as of `03.05.2018 5:25 GMT+2` From Soapbox Race World)
+(Status as of `03.05.2018 5:25 GMT+2` Source: [Soapbox Race World](https://github.com/SoapboxRaceWorld/GameLauncher_NFSW))

@@ -1,5 +1,21 @@
 ;aiu;
 
+[1.9.1.41]
+Name = Soapbox Launcher Update (1.9.1.41)
+Category = Hotfix
+ProductVersion = 1.9.41
+URL = https://github.com/1DavidCarbon/Soapbox_Launcher_Installer/releases/download/1.9.1.41/Release.exe
+Size = 9953653
+ReleaseDate = 07/09/2018
+MD5 = ef902636557526d8fa51072bfcdac321
+ServerFileName = Soapbox Race World Launcher.exe
+Flags = Critical
+RegistryKey = HKUD\Software\Soapbox Race World\Soapbox Race World Launcher\Version
+Version = 1.9.41
+Description = A Rewrite of GameLauncher taken from Need For Speed: World
+BugFix = Server list hardcored in exe.
+BugFix1 = Always returns true for connection status with currently dead VPS.
+
 [1.9.2.2]
 Name = Soapbox Launcher Update (1.9.2.2)
 Category = Update
@@ -17,19 +33,3 @@ Feature =     Server-specific content mods! Servers can now host game mods that 
 Enhancement =     OS requirement is now Windows 7 and above
 BugFix =     Reworked server list display code.
 BugFix1 =     New server list + update backend.  
-
-[1.9.1.41]
-Name = Soapbox Launcher Update (1.9.1.41)
-Category = Hotfix
-ProductVersion = 1.9.41
-URL = https://github.com/1DavidCarbon/Soapbox_Launcher_Installer/releases/download/1.9.1.41/Release.exe
-Size = 9953653
-ReleaseDate = 07/09/2018
-MD5 = ef902636557526d8fa51072bfcdac321
-ServerFileName = Soapbox Race World Launcher.exe
-Flags = Critical
-RegistryKey = HKUD\Software\Soapbox Race World\Soapbox Race World Launcher\Version
-Version = 1.9.41
-Description = A Rewrite of GameLauncher taken from Need For Speed: World
-BugFix = Server list hardcored in exe.
-BugFix1 = Always returns true for connection status with currently dead VPS.

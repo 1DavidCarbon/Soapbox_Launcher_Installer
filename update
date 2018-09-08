@@ -4,11 +4,11 @@
 Name = Soapbox Launcher Update (1.9.2.2)
 Category = Hotfix
 ProductVersion = 1.9.42
-URL = https://github.com/1DavidCarbon/Soapbox_Launcher_Installer/releases/download/1.9.2.2/release.exe
+URL = https://github.com/1DavidCarbon/Soapbox_Launcher_Installer/releases/download/1.9.2.2/Release.exe
 Size = 10768681
 ReleaseDate = 08/08/2018
 MD5 = 63704124d43957e6b6b303a4b3ad83fe
-ServerFileName = release.exe
+ServerFileName = Release.exe
 Flags = Critical
 RegistryKey = HKUD\Software\Soapbox Race World\Soapbox Race World Launcher\Version
 Version = 1.9.42

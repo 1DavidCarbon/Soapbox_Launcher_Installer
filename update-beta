@@ -1,5 +1,27 @@
 ;aiu;
 
+[1.9.2.2]
+Name = Soapbox Launcher Update (1.9.2.2)
+Category = Update
+ProductVersion = 1.9.42
+URL = https://github.com/1DavidCarbon/Soapbox_Launcher_Installer/releases/download/1.9.2.2/Release.1.9.2.2.exe
+Size = 10768641
+ReleaseDate = 08/09/2018
+MD5 = 23ea2ff71907335f2643d81e9319389e
+ServerFileName = Release.1.9.2.2.exe
+Flags = Critical
+RegistryKey = HKUD\Software\Soapbox Race World\Soapbox Race World Launcher\Version
+Version = 1.9.42
+UpdatedApplications = Soapbox Race World Launcher[1.9.40-1.9.41]
+Description = A Rewrite of GameLauncher taken from Need For Speed: World
+Feature = Server-specific content mods!  Switching servers will update the active mods accordingly.
+Feature1 = Servers can now host game mods that will be downloaded and applied automatically!
+Feature2 = Switching servers will update the active mods accordingly.
+Enhancement = OS requirement is now Windows 7 and above
+BugFix = Reworked server list display code.
+BugFix1 = New server list + update backend. 
+Replaces = All
+
 [1.9.1.41]
 Name = Soapbox Launcher Update (1.9.1.41)
 Category = Hotfix

@@ -2,7 +2,7 @@
 
 ## Known Bugs
 
-- [X] None...yet
+- [X] I'm trying my best :cry:
 
 ### Screenshots
 

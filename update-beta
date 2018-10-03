@@ -1,5 +1,24 @@
 ;aiu;
 
+[1.9.2.4]
+Category = Hotfix
+Name = Soapbox Launcher Update (1.9.2.4)
+ProductVersion = 1.9.43
+URL = https://github.com/1DavidCarbon/Soapbox_Launcher_Installer/releases/download/1.9.2.4/Release.1.9.2.4.exe
+Size = 10824688
+ReleaseDate = 15/09/2018
+MD5 = 410eb0a35dacdf88ad9561c70930ed44
+ServerFileName = Release.1.9.2.4.exe
+Flags = Critical
+RegistryKey = HKUD\Software\Soapbox Race World\Soapbox Race World Launcher\Version
+Version = 1.9.43
+UpdatedApplications = Soapbox Race World Launcher[1.9.40-1.9.42]
+Description = A Rewrite of GameLauncher taken from Need For Speed: World
+Enhancement = OS requirement is now Windows 7 and above.
+Enhancement1 = Installation Package now includes automatic updater checker.
+BugFix = Fixed Game Launcher Run-as-Admin prompt.
+Replaces = All
+
 [1.9.2.2]
 Name = Soapbox Launcher Update (1.9.2.2)
 Category = Update

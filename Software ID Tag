@@ -1,2 +1,30 @@
-regid.2017-04.world.soapboxrace.installer
-Checks %PROGRAMDATA%\2017-04.world.soapboxrace\regid.2017-4.world.soapboxrace.installer_1538680925.swidtag
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<software_identification_tag xmlns:ns2="http://www.w3.org/2000/09/xmldsig#" xmlns="http://standards.iso.org/iso/19770/-2/2009/schema.xsd">
+    <entitlement_required_indicator>true</entitlement_required_indicator>
+    <product_title>SoapboxLauncher/product_title>
+    <product_version>
+        <name>1.9.2.7</name>
+        <numeric>
+            <major>1</major>
+            <minor>9</minor>
+            <build>2</build>
+            <review>7</review>
+        </numeric>
+    </product_version>
+    <software_creator>
+        <name>SoapboxRace</name>
+        <regid>regid.2017-04.world.soapboxrace.installer</regid>
+    </software_creator>
+    <software_licensor>
+        <name>SoapboxRace</name>
+        <regid>regid.2017-04.world.soapboxrace.installer</regid>
+    </software_licensor>
+    <software_id>
+        <unique_id>SBRW</unique_id>
+        <tag_creator_regid>regid.2017-04.world.soapboxrace.installer</tag_creator_regid>
+    </software_id>
+    <tag_creator>
+        <name>SoapboxRace</name>
+        <regid>regid.2017-04.world.soapboxrace.installer</regid>
+    </tag_creator>
+</software_identification_tag>

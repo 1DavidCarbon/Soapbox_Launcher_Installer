@@ -24,3 +24,4 @@ BugFix3 = [Launcher Updater]
 BugFix4 = Fixed updater being silly with DLLs extraction like Newtonsoft.Json.dll.
 BugFix5 = New updater is just a one file and doesn't require any third party libraries anymore
 BugFix6 = ( but it still suck ¯_(?)_/¯ )
+Replaces = All

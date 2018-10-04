@@ -13,18 +13,18 @@
     </product_version>
     <software_creator>
         <name>SoapboxRace</name>
-        <regid>regid.2017-04.world.soapboxrace.installer</regid>
+        <regid>regid.2017-04.world.soapboxrace</regid>
     </software_creator>
     <software_licensor>
         <name>SoapboxRace</name>
-        <regid>regid.2017-04.world.soapboxrace.installer</regid>
+        <regid>regid.2017-04.world.soapboxrace</regid>
     </software_licensor>
     <software_id>
         <unique_id>SBRW</unique_id>
-        <tag_creator_regid>regid.2017-04.world.soapboxrace.installer</tag_creator_regid>
+        <tag_creator_regid>regid.2017-04.world.soapboxrace</tag_creator_regid>
     </software_id>
     <tag_creator>
         <name>SoapboxRace</name>
-        <regid>regid.2017-04.world.soapboxrace.installer</regid>
+        <regid>regid.2017-04.world.soapboxrace</regid>
     </tag_creator>
 </software_identification_tag>

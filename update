@@ -2,12 +2,13 @@
 
 [1.9.2.7]
 Name = Soapbox Launcher Update (1.9.2.7)
-Category = Update
+Category = Hotfix
 ProductVersion = 1.9.44
 URL = https://github.com/1DavidCarbon/Soapbox_Launcher_Installer/releases/download/1.9.2.7/Release.exe
-Size = 10683695
+URL1 = https://github.com/1DavidCarbon/Soapbox_Launcher_Installer/releases/download/1.9.2.7/Release.exe
+Size = 10627809
 ReleaseDate = 03/10/2018
-MD5 = 8fdc7e49018c161a540dd68e8ba4bf88
+MD5 = 4ed94ad1197908f70016463f2da79796
 ServerFileName = Release.exe
 Flags = Critical|NoCache
 RegistryKey = HKUD\Software\Soapbox Race World\Soapbox Race World Launcher\Version
@@ -17,10 +18,8 @@ Description = A Rewrite of GameLauncher taken from Need For Speed: World
 Feature = MeTonaTOR has returned.
 Enhancement = OS requirement is now Windows 7 and above.
 Enhancement1 = Installer now checks for .NET Framework 4.5 (Now a Requirement)
-BugFix = (Launcher)
-BugFix1 = New updater.
-BugFix2 = Fixed an illegal path error while registering introduced in version 1.9.2.0 with LaunchPad?.
-BugFix3 = [Launcher Updater]
-BugFix4 = Fixed updater being silly with DLLs extraction like Newtonsoft.Json.dll.
-BugFix5 = New updater is just a one file and doesn't require any third party libraries anymore
+BugFix = New updater.
+BugFix1 = Fixed an illegal path error while registering introduced in version 1.9.2.0 with LaunchPad
+BugFix2 = Fixed updater being silly with DLLs extraction like Newtonsoft.Json.dll.
+BugFix3 = New updater is just a one file and doesn't require any third party libraries anymore
 Replaces = All

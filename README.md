@@ -1,8 +1,10 @@
 # Installer_NFSW [![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg?branch=master)](https://github.com/1DavidCarbon/Soapbox_Launcher_Installer/releases/latest)
 
-## Known Bugs
+## Requirement to install Game Launcher
 
-- [X] I'm trying my best :cry:
+- [X] .NET Framework 4.5
+- [X] Windows Vista SP2 or Newer
+- [ ] Admin Rights
 
 ### Screenshots
 

@@ -1,20 +1,21 @@
 ;aiu;
 
-[1.9.48]
-Name = Soapbox  Launcher 1.9.2.12
-Category = Hotfix
-ProductVersion = 1.9.48
+[1.9.49]
+Name = Soapbox Launcher 1.9.2.14
+Category = Update
+ProductVersion = 1.9.49
 URL = https://www.dropbox.com/s/vcrtvqprtjrlpj1/_Installer.exe?dl=1
-URL1 = https://github.com/1DavidCarbon/Soapbox_Launcher_Installer/releases/download/1.9.2.12/_Installer
-Size = 11666145
-ReleaseDate = 08/10/2018
-MD5 = e6388751cb689385c2bd2cfebd3aebac
+URL1 = https://soapbox.ct8.pl/Launcher/_Installer.exe
+Size = 11380179
+ReleaseDate = 09/10/2018
+MD5 = 5506de14e5e514e9d6020abadcf5429c
 ServerFileName = _Installer.exe
 Flags = Critical|NoCache
 RegistryKey = HKUD\Software\Soapbox Race World\Soapbox Race World Launcher\Version
-Version = 1.9.48
-UpdatedApplications = Soapbox Race World Launcher(1.9.40-1.9.47)
+Version = 1.9.49
+UpdatedApplications = Soapbox Race World Launcher[1.9.40-1.9.48]
 Description = A Rewrite of GameLauncher taken from Need For Speed: World
-Enhancement = Added ServerName on discord rpc.
-BugFix = Fixed an Just-in-time error while clicking on "Reset password" field. (reported by HyperCycle)
-BugFix1 = Clicking on any profile ingame will now not show that persona name as you on discord.
+Feature = Blacklisting server has been added.
+Feature1 = Real ServerName from GetServerInformation API is now being displayed instead of LaunchPad Name.
+Enhancement = Regex is now case-insensitive
+Replaces = All

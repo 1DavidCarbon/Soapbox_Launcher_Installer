@@ -13,18 +13,18 @@
     </product_version>
     <software_creator>
         <name>SoapboxRace</name>
-        <regid>regid.2017-04.world.soapboxrace</regid>
+        <regid>regid.2017-04.world.soapboxrace_Soapbox Race World Launcher</regid>
     </software_creator>
     <software_licensor>
         <name>SoapboxRace</name>
-        <regid>regid.2017-04.world.soapboxrace</regid>
+        <regid>regid.2017-04.world.soapboxrace_Soapbox Race World Launcher</regid>
     </software_licensor>
     <software_id>
         <unique_id>SBRW</unique_id>
-        <tag_creator_regid>regid.2017-04.world.soapboxrace</tag_creator_regid>
+        <tag_creator_regid>regid.2017-04.world.soapboxrace_Soapbox Race World Launcher</tag_creator_regid>
     </software_id>
     <tag_creator>
         <name>SoapboxRace</name>
-        <regid>regid.2017-04.world.soapboxrace</regid>
+        <regid>regid.2017-04.world.soapboxrace_Soapbox Race World Launcher</regid>
     </tag_creator>
 </software_identification_tag>

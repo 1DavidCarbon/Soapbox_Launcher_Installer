@@ -2,9 +2,9 @@
 
 ## Requirement to install Game Launcher
 
-- [X] .NET Framework 4.5
-- [X] Windows Vista SP2 or Newer
-- [ ] Admin Rights
+- [X] Minimum Windows 10 Build 1809 or later
+- [X] Admin Rights
+- [ ] Mircosoft Account?
 
 ### Screenshots
 
@@ -26,4 +26,4 @@ A Rewrite of GameLauncher taken from Need For Speed: World
 ### Screenshot
 ![](https://raw.githubusercontent.com/SoapboxRaceWorld/GameLauncher_NFSW/master/screenshot.png)
 
-(Status as of `03.05.2018 5:25 GMT+2` Source: [Soapbox Race World](https://github.com/SoapboxRaceWorld/GameLauncher_NFSW))
+(`Planned look, final release may vary` Source: [Soapbox Race World](https://raw.githubusercontent.com/SoapboxRaceWorld/GameLauncher_NFSW/interface_v3/screenshot.png))

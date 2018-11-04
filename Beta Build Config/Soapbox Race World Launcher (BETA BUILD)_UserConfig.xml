@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- 
+This is your sample dynamic user configuration.  Use this to override per user
+elements within your sequenced package.  The document is pre-filled with data from your sequenced package.
+Customize the document to fit your needs before publishing with your package.
+ -->
+<UserConfiguration PackageId="79549b94-53bc-42aa-994f-b51556d97293" DisplayName="Soapbox Race World Launcher (BETA BUILD)" IgnorableNamespaces="" xmlns="http://schemas.microsoft.com/appv/2010/userconfiguration">
+  <!-- 
+  OVERRIDE BEHAVIOR OF MANIFEST AND CONFIGURATION FILES 
+  Integration Subsystems can be enabled and disabled independently of the content.
+  Thus if Shortcuts are enabled, The client will use the shortcuts contained within
+  the manifest by default.
+
+  Each Integration Subsystem can contain an <Extensions /> node. If this child element
+  is present, the client will ignore the content in the Manifest file for that subsystem
+  and only use the content in the configuration file.
+
+  e.g. for the shortcuts subsystem, 
+  (A)
+  if the user defined this in either the dynamic or deployment config file:
+	  <Shortcuts  Enabled="true">
+		  <Extensions>
+			  ...
+		  </Extensions>
+	  </Shortcuts>
+
+  Content in the manifest will be ignored.
+
+  (B)
+  IF the user defined only this:
+	  <Shortcuts  Enabled="true"/>
+  Then the content in the Manifest will be integrated during publishing.
+
+  (C)
+  note that if the user defines this:
+	  <Shortcuts  Enabled="true">
+		  <Extensions/>
+	  </Shortcuts>
+
+  Then all the Shortcuts within the manifest will still be ignored.
+  There will be no shortcuts integrated.
+ -->
+  <Subsystems>
+    <Shortcuts Enabled="true">
+      <Extensions>
+        <Extension Category="AppV.Shortcut">
+          <Shortcut>
+            <File>[{Common Programs}]\Soapbox Race World Launcher (BETA BUILD)\Updates\Check for BETA Updates.lnk</File>
+            <Target>[{ProgramFilesX86}]\Soapbox Race World\Soapbox Race World Launcher (BETA BUILD)\Need For Speed World\Launcher (BETA BUILD)\Installer Updater\Installation Update Check.exe_{E0301857-F6FA-4EF6-AC54-0B19DD70E9DA}.exe</Target>
+            <Icon>[{ProgramFilesX86}]\Soapbox Race World\Soapbox Race World Launcher (BETA BUILD)\Need For Speed World\Launcher (BETA BUILD)\Installer Updater\Installation Update Check.exe.2.ico</Icon>
+            <Arguments/>
+            <WorkingDirectory>[{ProgramFilesX86}]\Soapbox Race World\Soapbox Race World Launcher (BETA BUILD)\Need For Speed World\Launcher (BETA BUILD)\Installer Updater\</WorkingDirectory>
+            <Description>Check for Improved Installation</Description>
+            <ShowCommand>1</ShowCommand>
+            <ApplicationId>[{ProgramFilesX86}]\Soapbox Race World\Soapbox Race World Launcher (BETA BUILD)\Need For Speed World\Launcher (BETA BUILD)\Installer Updater\Installation Update Check.exe</ApplicationId>
+          </Shortcut>
+        </Extension>
+        <Extension Category="AppV.Shortcut">
+          <Shortcut>
+            <File>[{Common Programs}]\Soapbox Race World Launcher (BETA BUILD)\Legal Terms\SOAPBOX LICENSE.lnk</File>
+            <Target>[{ProgramFilesX86}]\Soapbox Race World\Soapbox Race World Launcher (BETA BUILD)\Need For Speed World\Launcher (BETA BUILD)\License\LICENSE.txt_{E0301857-F6FA-4EF6-AC54-0B19DD70E9DA}.exe</Target>
+            <Icon>[{ProgramFilesX86}]\Soapbox Race World\Soapbox Race World Launcher (BETA BUILD)\Need For Speed World\Launcher (BETA BUILD)\License\LICENSE.txt</Icon>
+            <Arguments/>
+            <WorkingDirectory>[{ProgramFilesX86}]\Soapbox Race World\Soapbox Race World Launcher (BETA BUILD)\Need For Speed World\Launcher (BETA BUILD)\License\</WorkingDirectory>
+            <ShowCommand>1</ShowCommand>
+            <ApplicationId>[{ProgramFilesX86}]\Soapbox Race World\Soapbox Race World Launcher (BETA BUILD)\Need For Speed World\Launcher (BETA BUILD)\License\LICENSE.txt</ApplicationId>
+          </Shortcut>
+        </Extension>
+        <Extension Category="AppV.Shortcut">
+          <Shortcut>
+            <File>[{Common Programs}]\Soapbox Race World Launcher (BETA BUILD)\Soapbox Launcher (BETA BUILD).lnk</File>
+            <Target>[{ProgramFilesX86}]\Soapbox Race World\Soapbox Race World Launcher (BETA BUILD)\Need For Speed World\Launcher (BETA BUILD)\GameLauncher.exe_{E0301857-F6FA-4EF6-AC54-0B19DD70E9DA}.exe</Target>
+            <Icon>[{ProgramFilesX86}]\Soapbox Race World\Soapbox Race World Launcher (BETA BUILD)\Need For Speed World\Launcher (BETA BUILD)\GameLauncher.exe.0.ico</Icon>
+            <Arguments/>
+            <WorkingDirectory>[{ProgramFilesX86}]\Soapbox Race World\Soapbox Race World Launcher (BETA BUILD)\Need For Speed World\</WorkingDirectory>
+            <Description>Soapbox Launcher</Description>
+            <ShowCommand>1</ShowCommand>
+            <ApplicationId>[{ProgramFilesX86}]\Soapbox Race World\Soapbox Race World Launcher (BETA BUILD)\Need For Speed World\Launcher (BETA BUILD)\GameLauncher.exe</ApplicationId>
+          </Shortcut>
+        </Extension>
+        <Extension Category="AppV.Shortcut">
+          <Shortcut>
+            <File>[{Common Desktop}]\Soapbox Launcher (BETA BUILD).lnk</File>
+            <Target>[{ProgramFilesX86}]\Soapbox Race World\Soapbox Race World Launcher (BETA BUILD)\Need For Speed World\Launcher (BETA BUILD)\GameLauncher.exe_{E0301857-F6FA-4EF6-AC54-0B19DD70E9DA}.exe</Target>
+            <Icon>[{ProgramFilesX86}]\Soapbox Race World\Soapbox Race World Launcher (BETA BUILD)\Need For Speed World\Launcher (BETA BUILD)\GameLauncher.exe.1.ico</Icon>
+            <Arguments/>
+            <WorkingDirectory>[{ProgramFilesX86}]\Soapbox Race World\Soapbox Race World Launcher (BETA BUILD)\Need For Speed World\</WorkingDirectory>
+            <Description>Soapbox Launcher</Description>
+            <ShowCommand>1</ShowCommand>
+            <ApplicationId>[{ProgramFilesX86}]\Soapbox Race World\Soapbox Race World Launcher (BETA BUILD)\Need For Speed World\Launcher (BETA BUILD)\GameLauncher.exe</ApplicationId>
+          </Shortcut>
+        </Extension>
+      </Extensions>
+    </Shortcuts>
+    <FileTypeAssociations Enabled="true">
+      <Extensions>
+      </Extensions>
+    </FileTypeAssociations>
+    <!-- URL Protocols -->
+    <URLProtocols Enabled="true">
+      <!-- 
+          <Extensions>
+            <Extension Category="AppV.URLProtocol">
+              <URLProtocol>
+                <Name>mailto</Name> 
+                <ApplicationURLProtocol>
+                  <DefaultIcon>[{ProgramFilesX86}]\Microsoft Contoso\Contoso\contosomail.EXE,-9403</DefaultIcon> 
+                  <EditFlags>2</EditFlags> 
+                  <Description /> 
+                  <AppUserModelId /> 
+                  <FriendlyTypeName /> 
+                  <InfoTip /> 
+                  <SourceFilter /> 
+                  <ShellFolder /> 
+                  <WebNavigableCLSID /> 
+                  <ExplorerFlags>2</ExplorerFlags> 
+                  <CLSID /> 
+                  <ShellCommands>
+                    <DefaultCommand>open</DefaultCommand> 
+                    <ShellCommand>
+                      <ApplicationId>[{ProgramFilesX86}]\Microsoft Contoso\Contoso\contosomail.EXE</ApplicationId> 
+                      <Name>open</Name> 
+                      <CommandLine>[{ProgramFilesX86}\Microsoft Contoso\Contoso\contosomail.EXE" -c OEP.Note /m "%1"</CommandLine> 
+                      <DropTargetClassId /> 
+                      <FriendlyName /> 
+                      <Extended>0</Extended> 
+                      <LegacyDisable>0</LegacyDisable> 
+                      <SuppressionPolicy>2</SuppressionPolicy> 
+                      <DdeExec>
+                        <NoActivateHandler /> 
+                        <Application>contosomail</Application> 
+                        <Topic>ShellSystem</Topic> 
+                        <IfExec>[SHELLNOOP]</IfExec> 
+                        <DdeCommand>[SetForeground][ShellNewDatabase "%1"]</DdeCommand> 
+                      </DdeExec>
+                    </ShellCommand>
+                  </ShellCommands>
+                </ApplicationURLProtocol>
+              </URLProtocol>
+            </Extension>
+          </Extensions>
+ -->
+    </URLProtocols>
+    <!-- COM -->
+    <COM Mode="Isolated">
+      <IntegratedCOMAttributes OutOfProcessEnabled="true" InProcessEnabled="false"/>
+    </COM>
+    <!-- Objects -->
+    <Objects Enabled="true"/>
+    <!-- Virtual Registry -->
+    <Registry Enabled="true">
+      <!-- 
+          <Include>
+            <Key Path="\REGISTRY\USER\[{AppVCurrentUserSID}]\Software\Foo">
+              <Value Type="REG_SZ" Name="Bar" Data="NewValue"/>
+            </Key>
+            <Key Path="\REGISTRY\USER\[{AppVCurrentUserSID}]\Software\EmptyKey"/>
+          </Include>
+ -->
+      <!-- 
+          <Delete>
+            <Key Path="\REGISTRY\USER\[{AppVCurrentUserSID}]\Software\Foo\BarDelete"/>
+          </Delete>
+ -->
+    </Registry>
+    <!-- Virtual File System -->
+    <FileSystem Enabled="true"/>
+    <!-- Fonts -->
+    <Fonts Enabled="true"/>
+    <!-- Environment Variables -->
+    <EnvironmentVariables Enabled="true"/>
+  </Subsystems>
+  <Applications>
+    <Application Id="[{ProgramFilesX86}]\Soapbox Race World\Soapbox Race World Launcher (BETA BUILD)\Need For Speed World\Launcher (BETA BUILD)\Installer Updater\Installation Update Check.exe" Enabled="true">
+      <VisualElements>
+        <Name>Check for BETA Updates</Name>
+        <Icon/>
+        <Description/>
+      </VisualElements>
+    </Application>
+    <Application Id="[{ProgramFilesX86}]\Soapbox Race World\Soapbox Race World Launcher (BETA BUILD)\Need For Speed World\Launcher (BETA BUILD)\GameLauncher.exe" Enabled="true">
+      <VisualElements>
+        <Name>Soapbox Launcher (BETA BUILD)</Name>
+        <Icon/>
+        <Description/>
+      </VisualElements>
+    </Application>
+    <Application Id="[{ProgramFilesX86}]\Soapbox Race World\Soapbox Race World Launcher (BETA BUILD)\Need For Speed World\Launcher (BETA BUILD)\License\LICENSE.txt" Enabled="true">
+      <VisualElements>
+        <Name>SOAPBOX LICENSE</Name>
+        <Icon/>
+        <Description/>
+      </VisualElements>
+    </Application>
+  </Applications>
+  <!--     User Scripts Example - customize and uncomment to use user scripts
+
+    <UserScripts>
+      <StartProcess RunInVirtualEnvironment="true">
+        <Path>VFS\ProgramFilesX86\App\dosomething.exe</Path>
+        <Arguments>-WithArgs</Arguments>
+        <Wait RollbackOnError="true"/>
+        <ApplicationId>[{AppVPackageRoot}]\Contoso\ContosoApp.EXE</ApplicationId>
+      </StartProcess>
+      <ExitProcess>
+        <Path>VFS\ProgramFilesX86\App\UnDoSomething.exe</Path>
+        <Arguments>-WithArgs</Arguments>
+        <Wait RollbackOnError="false"/>
+        <ApplicationId>[{AppVPackageRoot}]\Contoso\ContosoApp.EXE</ApplicationId>
+      </ExitProcess>
+      
+      <StartVirtualEnvironment  RunInVirtualEnvironment="true">
+        <Path>[{AppVPackageRoot}]\VFS\ProgramFilesX86\App\DoSomething.exe</Path>
+        <Arguments>-WithArgs</Arguments>
+        <Wait RollbackOnError="true"/>
+      </StartVirtualEnvironment>
+    
+      <TerminateVirtualEnvironment>
+        <Path>[{AppVPackageRoot}]\VFS\ProgramFilesX86\App\UnDoSomething.exe</Path>
+        <Arguments>-WithArgs</Arguments>
+      <Wait RollbackOnError="false"/>
+      </TerminateVirtualEnvironment>
+      <PublishPackage>
+        <Path>\\server\share\foobar.exe</Path>
+        <Arguments>-WithArgs</Arguments>
+        <Wait RollbackOnError="true" Timeout="30"/>
+      </PublishPackage>
+      <UnpublishPackage>
+        <Path>\\server\share\barfoo.exe</Path>
+        <Arguments>-WithArgs</Arguments>
+        <Wait RollbackOnError="false" Timeout="30"/>
+      </UnpublishPackage>
+    </UserScripts>
+    
+ -->
+</UserConfiguration>

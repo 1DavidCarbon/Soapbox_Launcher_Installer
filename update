@@ -1,20 +1,33 @@
 ;aiu;
 
-[1.9.50]
-Name = Soapbox Launcher 1.9.2.15
-Category = Hotfix
-ProductVersion = 1.9.50
+[2.0.0.0]
+Name = Soapbox Launcher 2.0.0.0
+Category = Update
+ProductVersion = 1.9.51.0
 URL = https://www.dropbox.com/s/vcrtvqprtjrlpj1/_Installer.exe?dl=1
 URL1 = https://soapbox.ct8.pl/Launcher/_Installer.exe
-Size = 11308735
-ReleaseDate = 20/10/2018
-MD5 = f39736d6fd7861d9170f51f533c1f31f
+Size = 12507973
+ReleaseDate = 08/11/2018
+MD5 = 16b8c6c89c70548064098040e6e00e84
 ServerFileName = _Installer.exe
 Flags = Critical|NoCache
 RegistryKey = HKUD\Software\Soapbox Race World\Soapbox Race World Launcher\Version
-Version = 1.9.50
-UpdatedApplications = Soapbox Race World Launcher(1.9.40-1.9.49)
-Description = A Rewrite of GameLauncher taken from Need For Speed: World
-Enhancement = Finalized Installer shortcut folder in start menu
-BugFix = Fixed a rare issue while regex is failing on BlackListedServers
+Version = 1.9.51
+UpdatedApplications = Soapbox Race World Launcher[1.9.40-1.9.50]
+Description = A MAJOR Rewrite of GameLauncher taken from Need For Speed: World
+Description1 = Now Includes GUI Version 3!
+Feature = New UI, Called V3 GUI - (Made by yoshisquad)
+Feature1 = Detailed crash information - (Application hang? Access Violations? Now you'll know them more precisely. DO NOT PING STAFF ABOUT ISSUES BTW!!!!!)
+Feature2 = Semi-Native Linux and macOS support - (Because we love linux, not sure about macOS)
+Feature3 = Freeroam Map! - (It's disabled at this moment, RBS has to fix math. But still ?? )
+Feature4 = Warning on login - (Just launch FRCS to see if you have a warning from server.)
+Feature5 = Linux distro detection - (Coz why not!)
+Enhancement = Full HTTPS Support for every server - (Just enable HTTPS on your side, cloudflare accepted aswell)
+Enhancement1 = Detailed DiscordRPC
+Enhancement2 = Removed Blacklisted Server -  (Because community matters, we even re-added NightRiderz)
+Enhancement3 = Translations are gone - (It will be back in next version for sure!)
+Enhancement4 =  Enhanced Download Bar - (Now you'll see gray as downloaded chunks, and blue as extracted chunks)
+Enhancement5 = Proxy port is now randomized. - (Because 6262 could be in use! Instead, a random port between 6260 and 6269 will be used)
+Enhancement6 = LegacyLaunch is now gone - (Because we fixed AdvancedLaunch completly)
+BugFix = Various bug fixes - (There were some, like "playnow" logged you with invalid password, caused gamecrash)
 Replaces = All

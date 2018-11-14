@@ -1,19 +1,19 @@
 ;aiu;
 
-[1.9.57]
+[1.9.58]
 Name = Soapbox Launcher 2.0.0.15
 Category = Hotfix
-ProductVersion = 1.9.57.0
+ProductVersion = 1.9.58.0
 URL = https://www.dropbox.com/s/vcrtvqprtjrlpj1/_Installer.exe?dl=1
 URL1 = https://soapbox.ct8.pl/Launcher/_Installer.exe
-Size = 11591303
+Size = 11591437
 ReleaseDate = 13/11/2018
-MD5 = b5c78ca12f92aecd961716fe22d46ae7
+MD5 = 1e271edd6757f3cb09dd1288ea90aed2
 ServerFileName = _Installer.exe
 Flags = Critical|NoCache
 RegistryKey = HKUD\Software\Soapbox Race World\Soapbox Race World Launcher\Version
-Version = 1.9.57
-UpdatedApplications = Soapbox Race World Launcher(1.9.40-1.9.56)
+Version = 1.9.58
+UpdatedApplications = Soapbox Race World Launcher[1.9.40-1.9.57]
 Description = A MAJOR Rewrite of GameLauncher taken from Need For Speed: World
 Description1 = Now Includes GUI Version 3!
 Feature = Added possibility to disable ModNet (this will avoid errors like 126)

@@ -24,6 +24,6 @@ A Rewrite of GameLauncher taken from Need For Speed: World
 - [X] Original fonts
 
 ### Screenshot
-![](https://raw.githubusercontent.com/SoapboxRaceWorld/GameLauncher_NFSW/master/screenshot.png)
+![](https://raw.githubusercontent.com/SoapboxRaceWorld/GameLauncher_NFSW/interface_v3/screenshot.png)
 
-(Status as of `03.05.2018 5:25 GMT+2` Source: [Soapbox Race World](https://github.com/SoapboxRaceWorld/GameLauncher_NFSW))
+(`Planned look, final release may vary` Source: [Soapbox Race World](https://github.com/SoapboxRaceWorld/GameLauncher_NFSW))

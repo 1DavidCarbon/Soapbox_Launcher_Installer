@@ -1,4 +1,4 @@
-# Installer_NFSW [![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg?branch=master)](https://github.com/1DavidCarbon/Soapbox_Launcher_Installer/releases/latest)
+# Installer_NFSW [![Build Status](https://img.shields.io/badge/build-failing-red.svg?branch=master)](https://github.com/1DavidCarbon/Soapbox_Launcher_Installer/releases/latest)
 
 ## Requirement to install Game Launcher
 

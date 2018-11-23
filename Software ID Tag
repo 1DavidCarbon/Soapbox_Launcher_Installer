@@ -3,12 +3,12 @@
     <entitlement_required_indicator>true</entitlement_required_indicator>
     <product_title>SoapboxLauncher/product_title>
     <product_version>
-        <name>1.9.2.14</name>
+        <name>2.0.0.18</name>
         <numeric>
-            <major>1</major>
-            <minor>9</minor>
-            <build>2</build>
-            <review>14</review>
+            <major>2</major>
+            <minor>0</minor>
+            <build>0</build>
+            <review>18</review>
         </numeric>
     </product_version>
     <software_creator>

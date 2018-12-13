@@ -1,26 +1,24 @@
 ;aiu;
 
-[1.9.60]
-Name = Soapbox Race World Launcher
+[1.9.61]
+Name = Soapbox Race World Launcher 2.0.0.20
 Category = Hotfix
-ProductVersion = 1.9.60.0
+ProductVersion = 1.9.61.0
 URL = https://www.dropbox.com/s/vcrtvqprtjrlpj1/_Installer.exe?dl=1
-URL1 = https://soapbox.ct8.pl/Launcher/_Installer.exe
-Size = 11916007
-ReleaseDate = 18/11/2018
-MD5 = b392c0d8af24e403d06a28d1d3aa54fe
+URL1 = https://launcher.soapboxraceworld.ml/Launcher/_Installer.exe
+Size = 11850703
+ReleaseDate = 12/12/2018
+MD5 = 8ca80a1ad61226e5f7001913baae7500
 ServerFileName = _Installer.exe
 Flags = Critical|NoCache
 RegistryKey = HKUD\Software\Soapbox Race World\Soapbox Race World Launcher\Version
-Version = 1.9.60
-UpdatedApplications = Soapbox Race World Launcher[1.9.40-1.9.58]
-Description = A MAJOR Rewrite of GameLauncher taken from Need For Speed: World
-Description1 = Now Includes GUI Version 3!
-Feature = ModernAuth
-Feature1 = Anticheat (currenly only Anti-FastPowerup)
-Feature2 = GIF Support (up to 2MB)
-Feature3 = ServerPick now has colors representing which server is online or offline
-Feature4 = Added "Pick Random Server" Button
-Enhancement = Leftovers from tests, frcs players should be able to login now
-BugFix = Various BugFixes: https://github.com/SoapboxRaceWorld/GameLauncher_NFSW/milestone/2?closed=1
+Version = 1.9.61
+UpdatedApplications = Soapbox Race World Launcher[1.9.40-1.9.60]
+Description = "There's no end, until we say so" ~SBRW Staff
+Description1 = A Rewrite of GameLauncher taken from Need For Speed: World
+Description2 = Interface Version 3!
+Feature = Temporarily disabled powerups anticheat.
+Enhancement = NFSW CDN completely deleted by Electronic Arts 
+Enhancement1 = (you can spam them for that... or even do a petition to restore it...)
+Enhancement2 = Hopefully we have mirror. Mirror is now default installation source.
 Replaces = All

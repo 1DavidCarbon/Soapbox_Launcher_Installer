@@ -1,23 +1,21 @@
 ;aiu;
 
-[1.9.63]
-Name = Soapbox Race World Launcher 2.0.1.3
-Category = Update
-ProductVersion = 1.9.63.0
+[1.9.64]
+Name = Soapbox Race World Launcher 2.0.1.4
+Category = Patch
+ProductVersion = 1.9.64.0
 URL = https://www.dropbox.com/s/vcrtvqprtjrlpj1/_Installer.exe?dl=1
 URL1 = https://launcher.soapboxraceworld.ml/Launcher/_Installer.exe
-Size = 11851481
-ReleaseDate = 29/12/2018
-MD5 = fb54d3e76e9580aab9d981d2c5c62412
+Size = 11853025
+ReleaseDate = 07/01/2019
+MD5 = f3d7963cde6c85c151f71e715d79c4a3
 ServerFileName = _Installer.exe
 Flags = Critical|NoCache
 RegistryKey = HKUD\Software\Soapbox Race World\Soapbox Race World Launcher\Version
-Version = 1.9.63
-UpdatedApplications = Soapbox Race World Launcher[1.9.40-1.9.61]
+Version = 1.9.64
+UpdatedApplications = Soapbox Race World Launcher[1.9.40-1.9.63]
 Description = "There's no end, until we say so" ~SBRW Staff
 Description1 = A Rewrite of GameLauncher taken from Need For Speed: World
 Description2 = Interface Version 3!
-BugFix = Whitelisted another nfsw.exe hash.
-BugFix1 = It's on that page... please notice "apear" on the third option... 
-BugFix2 = The misspelled word is fixed now.
+BugFix = Removes NR Server override
 Replaces = All

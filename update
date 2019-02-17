@@ -1,24 +1,21 @@
 ;aiu;
 
-[1.9.69]
-Name = Soapbox Race World Launcher 2.0.2.2
-ProductVersion = 1.9.69.0
+[1.9.72]
+Name = Soapbox Race World Launcher 2.0.2.8
+ProductVersion = 1.9.72.0
 URL = https://www.dropbox.com/s/vcrtvqprtjrlpj1/_Installer.exe?dl=1
 URL1 = https://launcher.soapboxraceworld.ml/Launcher/_Installer.exe
-Size = 10065934
-ReleaseDate = 09/02/2019
-MD5 = 16480e9a092db89cc136ba65c7187132
+Size = 10477992
+ReleaseDate = 16/02/2019
+MD5 = 10ce78111977a290a9ca796c23bc408d
 ServerFileName = _Installer.exe
 Flags = Critical|NoCache
 RegistryKey = HKUD\Software\Soapbox Race World\Soapbox Race World Launcher\Version
-Version = 1.9.69
-UpdatedApplications = Soapbox Race World Launcher[1.9.40-1.9.68]
+Version = 1.9.72
+UpdatedApplications = Soapbox Race World Launcher[1.9.40-1.9.71]
 Description = "There's no end, until we say so" ~SBRW Staff
 Description1 = A Rewrite of GameLauncher taken from Need For Speed: World
-Feature = Reverting Back to Stable Release
-Feature1 = Game Launcher Versions 2.0.2.3 & 2.0.2.4
-Feature2 = Has reports of "Invaild Login"
-Feature3 = Thus leading to a temp ban on them
-Feature4 = Installer Updater Database has currently banned these
-Feature5 = Versions until a stable release is released
+BugFix = Fixed Invalid logins Error
+BugFix1 = Better dll checking version
+BugFix2 = Added LZMA.dll downloader
 Replaces = All

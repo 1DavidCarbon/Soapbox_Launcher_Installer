@@ -1,21 +1,21 @@
 ;aiu;
 
-[1.9.72]
-Name = Soapbox Race World Launcher 2.0.2.8
-ProductVersion = 1.9.72.0
+[1.9.73]
+Name = Soapbox Race World Launcher 2.0.3.0
+ProductVersion = 1.9.73.0
 URL = https://www.dropbox.com/s/vcrtvqprtjrlpj1/_Installer.exe?dl=1
 URL1 = https://launcher.soapboxraceworld.ml/Launcher/_Installer.exe
-Size = 10477992
-ReleaseDate = 16/02/2019
-MD5 = 10ce78111977a290a9ca796c23bc408d
+Size = 10478880
+ReleaseDate = 14/05/2019
+MD5 = e50b5144f0fec413f5840cac5b0206c1
 ServerFileName = _Installer.exe
 Flags = Critical|NoCache
 RegistryKey = HKUD\Software\Soapbox Race World\Soapbox Race World Launcher\Version
-Version = 1.9.72
-UpdatedApplications = Soapbox Race World Launcher[1.9.40-1.9.71]
-Description = "There's no end, until we say so" ~SBRW Staff
+Version = 1.9.73
+UpdatedApplications = Soapbox Race World Launcher[1.9.40-1.9.72]
+Description = "There's no end, until we say so" ~DEV Team
 Description1 = A Rewrite of GameLauncher taken from Need For Speed: World
-BugFix = Fixed Invalid logins Error
-BugFix1 = Better dll checking version
-BugFix2 = Added LZMA.dll downloader
+Enhancement = DiscordRPC Icon enhancement
+BugFix = Removed powerup anticheat, since its broken...
+BugFix1 = Dead hardcoded CDN removed, instead, an WUGG one is now default.
 Replaces = All

@@ -1,21 +1,21 @@
 ;aiu;
 
-[1.9.75]
-Name = Soapbox Race World Launcher 2.0.3.1
-ProductVersion = 1.9.75.0
+[1.9.77]
+Name = Soapbox Race World Launcher 2.0.3.3
+ProductVersion = 1.9.77.0
 URL = https://www.dropbox.com/s/vcrtvqprtjrlpj1/_Installer.exe?dl=1
 URL1 = https://launcher.soapboxraceworld.ml/Launcher/_Installer.exe
-URL2 = http://1davidcarbon.gitlab.io/soapbox-installer-releases-download/2-0-3-1/_Installer.exe
-Size = 10477512
-ReleaseDate = 19/05/2019
-MD5 = 5e896319281478f4cc7f9730b14a99d3
+URL2 = http://1davidcarbon.gitlab.io/soapbox-installer-releases-download/2-0-3-3/_Installer.exe
+Size = 12325504
+ReleaseDate = 02/06/2019
+MD5 = 36652a6ad5c91f8c1d44158dcbc46b87
 ServerFileName = _Installer.exe
 Flags = Critical|NoCache
 RegistryKey = HKUD\Software\Soapbox Race World\Soapbox Race World Launcher\Version
-Version = 1.9.75
-UpdatedApplications = Soapbox Race World Launcher[1.9.40-1.9.74]
-Enhancement = Serverlist is now downloaded with async.
-BugFix = Fixed a rare occasion for crash
-BugFix1 = Fixed an event that showed as pursuit instead of sprint (thx atomariel <3)
-BugFix2 = Fixed a rare occasion when ban only was shown as time. Now it displays more informations (if available)
+Version = 1.9.77
+UpdatedApplications = Soapbox Race World Launcher[1.9.40-1.9.75]
+Enhancement = Added X-DiscordID header
+Enhancement1 = Added Firewall Exception (Installer Version Only)
+BugFix = Discord Rich Presence Events Fix
+BugFix1 = Serverlist sorting
 Replaces = All

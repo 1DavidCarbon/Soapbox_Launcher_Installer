@@ -4,15 +4,19 @@
 
 - [X] .NET Framework 4.5
 - [X] Windows Vista SP2 or Newer
+- [X] Windows Firewall Exception
+- [x] Custom Directory (No Programs Files or x86 anymore)
 - [ ] Admin Rights
 
 ### Screenshots
 
-![](https://raw.githubusercontent.com/1DavidCarbon/Soapbox_Launcher_Installer/master/Soapbox%20Installer%20(Lang).PNG)
+![Language Prompt](Soapbox%20Installer%20(Lang).PNG)
 
-![Fixed](https://raw.githubusercontent.com/1DavidCarbon/Soapbox_Launcher_Installer/master/Soapbox%20Installer%20(Dir).PNG)
+![Default Directory](Soapbox%20Installer%20(Dir).PNG)
 
-![](https://raw.githubusercontent.com/1DavidCarbon/Soapbox_Launcher_Installer/master/Soapbox%20Installer%20(Launch).PNG)
+![Launch Prompt](Soapbox%20Installer%20(Launch).PNG)
+
+![Launch Prompt](Soapbox%20Installer%20(Firewall).PNG)
 
 # GameLauncher_NFSW [![Build Status](https://travis-ci.org/SoapboxRaceWorld/GameLauncher_NFSW.svg?branch=master)](https://travis-ci.org/SoapboxRaceWorld/GameLauncher_NFSW)
 A Rewrite of GameLauncher taken from Need For Speed: World

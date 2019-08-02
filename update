@@ -1,21 +1,19 @@
 ;aiu;
 
-[1.9.78]
-Name = Soapbox Race World Launcher 2.0.3.3
-ProductVersion = 1.9.78.0
-URL = http://1davidcarbon.gitlab.io/soapbox-installer-releases-download/2-0-3-3-R2/_Installer.exe
+[1.9.80]
+Name = Soapbox Race World Launcher 2.0.3.5
+ProductVersion = 1.9.80.0
+URL = http://1davidcarbon.gitlab.io/soapbox-installer-releases-download/2-0-3-5/_Installer.exe
 URL1 = https://launcher.soapboxraceworld.ml/Launcher/_Installer.exe
 URL2 = https://www.dropbox.com/s/vcrtvqprtjrlpj1/_Installer.exe?dl=1
-Size = 12325872
-ReleaseDate = 11/06/2019
-MD5 = 2edc35164cea83defad840a3983e8aea
+Size = 12342160
+ReleaseDate = 02/08/2019
+MD5 = 253c47028ca69a5c7173445e2edd5411
 ServerFileName = _Installer.exe
 Flags = Critical|NoCache
 RegistryKey = HKUD\Software\Soapbox Race World\Soapbox Race World Launcher\Version
-Version = 1.9.78
-UpdatedApplications = Soapbox Race World Launcher[1.9.40-1.9.76]
-Enhancement = Added X-DiscordID header
-Enhancement1 = Added Firewall Exception (Installer Version Only)
-BugFix = Discord Rich Presence Events Fix
-BugFix1 = Serverlist sorting
+Version = 1.9.80.0
+UpdatedApplications = Soapbox Race World Launcher[1.9.40-1.9.79]
+Enhancement = Cleaned up Start Menu
+BugFix = ModNet™️ is finally fixed.
 Replaces = All

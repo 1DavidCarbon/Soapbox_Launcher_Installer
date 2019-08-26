@@ -1,7 +1,7 @@
 ;aiu;
 
 [1.9.83]
-Name = Soapbox Race World Launcher 2.0.3.7
+Name = Soapbox Race World Installer Addon
 ProductVersion = 1.9.83.0
 URL = http://1davidcarbon.gitlab.io/soapbox-installer-releases-download/2-0-3-7-R2/_Installer.exe
 URL1 = https://launcher.soapboxraceworld.ml/Launcher/_Installer.exe
@@ -14,8 +14,6 @@ Flags = NoCache
 RegistryKey = HKUD\Software\Soapbox Race World\Soapbox Race World Launcher\Version
 Version = 1.9.83.0
 UpdatedApplications = Soapbox Race World Launcher[1.9.40-1.9.82]
-Enhancement = Updated ModManager.asi
-Enhancement1 = Installer Version now has a custom self-signed signature
-Enhancement2 = Added Vinyl Manager
-Enhancement3 = Added Shader Manager
+Enhancement = Added Vinyl Manager
+Enhancement1 = Added Shader Manager
 Replaces = All

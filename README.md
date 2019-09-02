@@ -21,13 +21,13 @@ Now you can! Visit the [patch notes txt file][installer patch notes].
 - Tools
   - Vinyl Manager
   - Shader Manager
+- [X] Windows Firewall Exception
+- [x] Custom Directory (No Programs Files or x86 anymore)
 
 ## Requirement to install Game Launcher
 
 - [X] .NET Framework 4.5
 - [X] Windows Vista SP2 or Newer
-- [X] Windows Firewall Exception
-- [x] Custom Directory (No Programs Files or x86 anymore)
 - [x] Admin Rights
 
 ### Screenshots

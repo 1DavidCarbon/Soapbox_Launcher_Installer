@@ -31,10 +31,14 @@ Now you can! Visit the [patch notes txt file][installer patch notes].
 - [x] Admin Rights
 
 ### Screenshots
-![Language Prompt](/Images/Soapbox%20Installer%20(Lang).PNG)
-![Default Directory](/Images/Soapbox%20Installer%20(Dir).PNG)
-![Launch Prompt](/Images/Soapbox%20Installer%20(Launch).PNG)
-![Launch Prompt](/Images/Soapbox%20Installer%20(Firewall).PNG)
+Start & Finish Prompt             |  Default Directory
+:-------------------------:|:-------------------------:
+![Language Prompt](/Images/Soapbox%20Installer%20(Lang).PNG) | ![Default Directory](/Images/Soapbox%20Installer%20(Dir).PNG)
+![Finished Installation Prompt](/Images/Soapbox%20Installer%20(Launch).PNG) |
+
+<p align="center">
+  <img src="/Images/Soapbox%20Installer%20(Firewall).PNG" alt="Windows Firewall Exceptions" width="100" />
+</p>
 
 # GameLauncher_NFSW 
 [![Build Status](https://travis-ci.org/SoapboxRaceWorld/GameLauncher_NFSW.svg?branch=master)](https://travis-ci.org/SoapboxRaceWorld/GameLauncher_NFSW)

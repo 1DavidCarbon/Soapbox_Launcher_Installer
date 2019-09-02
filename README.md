@@ -37,7 +37,7 @@ Start & Finish Prompt             |  Default Directory
 ![Finished Installation Prompt](/Images/Soapbox%20Installer%20(Launch).PNG) |
 
 <p align="center">
-  <img src="/Images/Soapbox%20Installer%20(Firewall).PNG" alt="Windows Firewall Exceptions" width="100" />
+  <img src="/Images/Soapbox%20Installer%20(Firewall).PNG" alt="Windows Firewall Exceptions" />
 </p>
 
 # GameLauncher_NFSW 

@@ -1,21 +1,23 @@
 ;aiu;
 
-[1.9.88]
-Name = Name = SBRW Launcher & Installer Update
-ProductVersion = 1.9.88.0
-URL = http://1davidcarbon.gitlab.io/soapbox-installer-releases-download/2-0-3-11/SBRW Installer.exe
-URL1 = https://l-sbrw.davidcarbon.download/2-0-3-11/SBRW Installer.exe
-Size = 12639184
-ReleaseDate = 13/10/2019
-MD5 = 99cda2e5eb41cf9d27ebca95850d9c72
+[1.9.89]
+Name = SBRW Launcher & Installer Update
+ProductVersion = 1.9.89.0
+URL = http://1davidcarbon.gitlab.io/soapbox-installer-releases-download/2-0-5-1/SBRW Installer.exe
+URL1 = https://l-sbrw.davidcarbon.download/2-0-5-1/SBRW Installer.exe
+Size = 12660592
+ReleaseDate = 23/10/2019
+MD5 = 137258dfd02acb9416521569a8c8b243
 ServerFileName = SBRW Installer.exe
-Flags = NoCache
+Flags = Critical|NoCache
 RegistryKey = HKUD\Software\Soapbox Race World\Soapbox Race World Launcher\Version
-Version = 1.9.88.0
-UpdatedApplications = Soapbox Race World Launcher[1.9.40-1.9.87]
-Enhancement = (Launcher) Removed Proxy
-Enhancement1 = (Launcher) Advanced Discord Rich Presence
-Enhancement2 = (Launcher) This should help fix some OoM Errors
-Enhancement3 = (Installer) Added Game Files Folder for New Players to choose Game download
-Enhancement4 = (Installer) Changed Installer Updater URL
+Version = 1.9.89.0
+UpdatedApplications = Soapbox Race World Launcher[1.9.40-1.9.88]
+Description = This update affects the Game Launcher and Launcher Installer. 
+Description1 = You can ignore this update if you have already successfully updated your Game Launcher.
+Description2 = (Clean Install without affecting your settings)
+Enhancement = (Launcher) New Anti-Cheat has been introduced. Original javascript code by @redbluescreen.
+Enhancement1 = (Launcher) Disabled game window renaming.
+Enhancement2 = (Installer) Added Version checker for Installer Version before installing build
+Enhancement3 = (Installer) Updated Installer Updater
 Replaces = All

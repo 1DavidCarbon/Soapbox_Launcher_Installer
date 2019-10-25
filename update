@@ -1,23 +1,24 @@
 ;aiu;
 
-[1.9.89]
-Name = SBRW Launcher & Installer Update
-ProductVersion = 1.9.89.0
-URL = http://1davidcarbon.gitlab.io/soapbox-installer-releases-download/2-0-5-1/SBRW Installer.exe
-URL1 = https://l-sbrw.davidcarbon.download/2-0-5-1/SBRW Installer.exe
-Size = 12660592
-ReleaseDate = 23/10/2019
-MD5 = 137258dfd02acb9416521569a8c8b243
+[1.9.90]
+Name = Soapbox Race World Launcher Update
+ProductVersion = 1.9.90.0
+URL = http://1davidcarbon.gitlab.io/soapbox-installer-releases-download/2-0-5-3/SBRW Installer.exe
+URL1 = https://l-sbrw.davidcarbon.download/2-0-5-3/SBRW Installer.exe
+Size = 12647808
+ReleaseDate = 25/10/2019
+MD5 = 43351c77ee9247474f8f6edf033d99e0
 ServerFileName = SBRW Installer.exe
 Flags = Critical|NoCache
 RegistryKey = HKUD\Software\Soapbox Race World\Soapbox Race World Launcher\Version
-Version = 1.9.89.0
-UpdatedApplications = Soapbox Race World Launcher[1.9.40-1.9.88]
-Description = This update affects the Game Launcher and Launcher Installer. 
+Version = 1.9.90.0
+UpdatedApplications = Soapbox Race World Launcher[1.9.40-1.9.89]
+Description = This update affects the Game Launcher. 
 Description1 = You can ignore this update if you have already successfully updated your Game Launcher.
 Description2 = (Clean Install without affecting your settings)
-Enhancement = (Launcher) New Anti-Cheat has been introduced. Original javascript code by @redbluescreen.
-Enhancement1 = (Launcher) Disabled game window renaming.
-Enhancement2 = (Installer) Added Version checker for Installer Version before installing build
-Enhancement3 = (Installer) Updated Installer Updater
+Enhancement = (Launcher) Added 3 more types of cheat to be detected:
+Enhancement1 = (Launcher) -DriftMods (beta, not all might be detected)
+Enhancement2 = (Launcher) -Wallhack
+Enhancement3 = (Launcher) -SilverAngel Multihack
+BugFix = (Launcher) Fixed a serious bug caused by wrong reporting of username while user was added as friend
 Replaces = All

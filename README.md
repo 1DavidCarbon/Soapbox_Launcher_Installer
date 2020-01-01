@@ -3,7 +3,7 @@
 </p>
 
 # Installer_NFSW 
-[![Build Status](https://gitlab.com/1DavidCarbon/soapbox-installer-releases-download/badges/master/build.svg)](https://github.com/1DavidCarbon/Soapbox_Launcher_Installer/releases/latest) 
+[![Build Status](https://gitlab.com/1DavidCarbon/soapbox-installer-releases-download/badges/master/pipeline.svg)](https://github.com/1DavidCarbon/Soapbox_Launcher_Installer/releases/latest) 
 [![Total Downloads](https://img.shields.io/github/downloads/1DavidCarbon/Soapbox_Launcher_Installer/total.svg?colorB=informational&label=downloads&logo=GitHub&style=flat)](https://github.com/1DavidCarbon/Soapbox_Launcher_Installer/releases/latest) 
 [![Stable Release](https://img.shields.io/github/release/1DavidCarbon/Soapbox_Launcher_Installer.svg?label=stable%20release&logo=downloads&style=flat)](https://github.com/1DavidCarbon/Soapbox_Launcher_Installer/releases/latest) 
 [![Preview Release](https://img.shields.io/github/release-pre/1DavidCarbon/Soapbox_Launcher_Installer.svg?label=pre-release&style=flat)](https://github.com/1DavidCarbon/Soapbox_Launcher_Installer/releases/latest) 
@@ -20,7 +20,6 @@ Now you can! Visit the [patch notes txt file][installer patch notes].
 - Official Game Launcher
 - Tools
   - Vinyl Manager
-  - Shader Manager
 - [X] Windows Firewall Exception
 - [x] Custom Directory (No Programs Files or x86 anymore)
 

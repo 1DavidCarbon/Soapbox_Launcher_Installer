@@ -1,20 +1,21 @@
 ;aiu;
 
-[1.9.92]
+[1.9.100]
 Name = SBRW Launcher Update
-ProductVersion = 1.9.92.0
-URL = http://1davidcarbon.gitlab.io/soapbox-installer-releases-download/2-0-5-6/SBRW Installer.exe
-URL1 = https://l-sbrw.davidcarbon.download/2-0-5-6/SBRW Installer.exe
-Size = 12648160
-ReleaseDate = 03/11/2019
-MD5 = 9a8d7059d7ffd384f2466667d408547f
+ProductVersion = 1.9.100.0
+URL = http://1davidcarbon.gitlab.io/soapbox-installer-releases-download/2-0-8-1/SBRW Installer.exe
+URL1 = https://l-sbrw.davidcarbon.download/2-0-8-1/SBRW Installer.exe
+Size = 12176080
+ReleaseDate = 05/01/2020
+SHA256 = 2D62F9A90FE24D13E53E1051F3B2C078E13DC4C459F264C273014F9580B17A42
+MD5 = 01158f427e8086c9d804a6affe311255
 ServerFileName = SBRW Installer.exe
 Flags = NoCache
 RegistryKey = HKUD\Software\Soapbox Race World\Soapbox Race World Launcher\Version
-Version = 1.9.92.0
-UpdatedApplications = Soapbox Race World Launcher[1.9.40-1.9.91]
-Description = This update affects the Game Launcher. 
-Description1 = You can ignore this update if you have already successfully updated your Game Launcher.
-Description2 = (Clean Install without affecting your settings)
-Enhancement = (Launcher) AntiCheat now sents HWID
-Enhancement1 = (Launcher) When game crashes, it sends a file to us to verify where the OoM occurred.
+Version = 1.9.100.0
+UpdatedApplications = Soapbox Race World Launcher[1.9.40-1.9.99]
+DescriptionHtml = <i>This update affects the Game Launcher and Launcher Installer.</i>
+DescriptionHtml1 = <i>You can ingnore this update if you have already successfully updated your Game Launcher.</i>
+FeatureHtml = <b>Game Launcher Updates</b>
+FeatureHtml1 = <b>Disable Word Filter</b> setting is now available in launcher settings.
+Replaces = All

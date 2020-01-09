@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/Images/sbrw-1024.png" />
+  <img src="/Images/Unofficial Installer Banner.png" />
 </p>
 
 # Installer_NFSW 

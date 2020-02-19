@@ -21,11 +21,12 @@ Now you can! Visit the [patch notes txt file][installer patch notes].
 - Tools
   - Vinyl Manager
 - [X] Windows Firewall Exception
-- [x] Custom Directory (No Programs Files or x86 anymore)
+- [x] Custom Directory
+- .NET Framework 4.6 (Web Installer) Included
 
 ## Requirement to install Game Launcher
 
-- [X] .NET Framework 4.5
+- [X] .NET Framework 4.6
 - [X] Windows Vista SP2 or Newer
 - [x] Admin Rights
 

@@ -1,24 +1,278 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <DICTIONARY type="multilanguage">
   <!-- Control table -->
+  <ENTRY id="Control.Text.FolderDlg#No_Install_Folder">
+	<STRING lang="ar" value="ملفات البرنامج"/>
+    <STRING lang="bg" value="Програмните файлове"/>
+    <STRING lang="de" value="Um in diesem Ordner zu installieren, klicken Sie auf &apos;&apos;[Text_Next]&apos;&apos;. Um es in einem anderen Ordner zu installieren, geben Sie es unten ein."/>
+    <STRING lang="en" value="Program Files"/>
+    <STRING lang="en_GB" value="Program Files"/>
+    <STRING lang="es" value="Para instalar en esta carpeta, haga clic en &apos;&apos;[Text_Next]&apos;&apos;. Para instalar en una carpeta diferente, ingrésala a continuación."/>
+    <STRING lang="fi" value="Asentaaksesi tähän kansioon napsauta &apos;&apos;[Text_Next]&apos;&apos;. Asenna toiseen kansioon kirjoittamalla se alle."/>
+    <STRING lang="fr" value="Pour installer dans ce dossier, cliquez sur &apos;&apos;[Text_Next]&apos;&apos;. Pour installer dans un autre dossier, entrez-le ci-dessous."/>
+    <STRING lang="it" value="Per installare in questa cartella, fare clic su &apos;&apos;[Text_Next]&apos;&apos;. Per installare in un&apos;altra cartella, inseriscilo sotto."/>
+    <STRING lang="ja" value="このフォルダにインストールするには、&apos;&apos;[Text_Next]&apos;&apos;をクリックします。 別のフォルダにインストールするには、以下に入力してください。"/>
+    <STRING lang="ko" value="이 폴더에 설치하려면 &apos;&apos;[Text_Next]&apos;&apos; 을 클릭하십시오. 다른 폴더에 설치하려면 아래에 입력하십시오."/>
+    <STRING lang="nl" value="Klik op &apos;&apos;[Text_Next]&apos;&apos; om in deze map te installeren. Voer het hieronder in om het in een andere map te installeren."/>
+    <STRING lang="pl" value="Aby zainstalować w tym folderze, kliknij &apos;&apos;[Text_Next]&apos;&apos;. Aby zainstalować w innym folderze, wprowadź go poniżej."/>
+    <STRING lang="pt" value="Para instalar nesta pasta, clique em &apos;&apos;[Text_Next]&apos;&apos;. Para instalar em uma pasta diferente, digite-a abaixo."/>
+    <STRING lang="pt_BR" value="Para instalar nesta pasta, clique em &apos;&apos;[Text_Next]&apos;&apos;. Para instalar em uma pasta diferente, digite-a abaixo."/>
+    <STRING lang="ru" value="Чтобы установить в эту папку, нажмите &apos;&apos;[Text_Next]&apos;&apos;. Чтобы установить в другую папку, введите ее ниже."/>
+    <STRING lang="sk" value="Ak chcete nainštalovať tento priečinok, kliknite na &apos;&apos;[Text_Next]&apos;&apos;. Ak chcete nainštalovať do iného priečinka, zadajte ho nižšie."/>
+    <STRING lang="sv" value="Klicka på &apos;&apos;[Text_Next]&apos;&apos; för att installera i den här mappen. För att installera i en annan mapp anger du den nedan."/>
+    <STRING lang="tr" value="Bu klasöre yüklemek için &apos;&apos;[Text_Next]&apos;&apos; yi tıklayın. Farklı bir klasöre yüklemek için aşağıya girin."/>
+    <STRING lang="uk" value="Щоб встановити цю папку, натисніть &apos;&apos;[Text_Next]&apos;&apos;. Щоб встановити іншу папку, введіть її нижче."/>
+    <STRING lang="zh" value="要安装在此文件夹中，请单击&apos;&apos;[Text_Next]&apos;&apos;。 要安装到其他文件夹，请在下面输入。"/>
+    <STRING lang="zh_TW" value="要安裝在此文件夾中，請單擊&apos;&apos;[Text_Next]&apos;&apos;。 要安裝到其他文件夾，請在下面輸入。"/>
+  </ENTRY>
+  <ENTRY id="Control.Text.FolderDlg#No_Install_Folder_10">
+  	<STRING lang="ar" value="OneDrive"/>
+    <STRING lang="bg" value="OneDrive"/>
+	<STRING lang="de" value="Eine Fahrt"/>	
+	<STRING lang="en_GB" value="OneDrive"/>
+    <STRING lang="es" value="OneDrive"/>
+    <STRING lang="fi" value="onedrive"/>
+    <STRING lang="fr" value="OneDrive"/>
+    <STRING lang="it" value="Una guida"/>
+    <STRING lang="ja" value="OneDrive"/>
+    <STRING lang="ko" value="OneDrive"/>
+    <STRING lang="nl" value="Een schijf"/>
+    <STRING lang="pl" value="OneDrive"/>
+    <STRING lang="pt" value="OneDrive"/>
+    <STRING lang="pt_BR" value="OneDrive"/>
+    <STRING lang="ru" value="Один диск"/>
+    <STRING lang="sk" value="onedrive"/>
+    <STRING lang="sv" value="OneDrive"/>
+    <STRING lang="tr" value="onedrive"/>
+    <STRING lang="uk" value="OneDrive"/>
+    <STRING lang="zh" value="一个驱动器"/>
+    <STRING lang="zh_TW" value="一個驅動器"/>	
+  </ENTRY>
+  <ENTRY id="Control.Text.FolderDlg#No_Install_Folder_11">
+  	<STRING lang="ar" value="المستخدمون"/>
+    <STRING lang="bg" value="Потребители"/>
+	<STRING lang="de" value="Benutzer"/>	
+	<STRING lang="en_GB" value="Users"/>
+    <STRING lang="es" value="Los usuarios"/>
+    <STRING lang="fi" value="käyttäjät"/>
+    <STRING lang="fr" value="Utilisateurs"/>
+    <STRING lang="it" value="utenti"/>
+    <STRING lang="ja" value="ユーザー"/>
+    <STRING lang="ko" value="사용자"/>
+    <STRING lang="nl" value="Gebruikers"/>
+    <STRING lang="pl" value="Użytkownicy"/>
+    <STRING lang="pt" value="Comercial"/>
+    <STRING lang="pt_BR" value="Comercial"/>
+    <STRING lang="ru" value="пользователей"/>
+    <STRING lang="sk" value="užívatelia"/>
+    <STRING lang="sv" value="användare"/>
+    <STRING lang="tr" value="Kullanıcılar"/>
+    <STRING lang="uk" value="Користувачі"/>
+    <STRING lang="zh" value="用户数"/>
+    <STRING lang="zh_TW" value="用戶數"/>	
+  </ENTRY>
+  <ENTRY id="Control.Text.FolderDlg#No_Install_Folder_2">
+  	<STRING lang="ar" value="(x86)ملفات البرنامج"/>
+    <STRING lang="bg" value="Програмни файлове (x86)"/>
+	<STRING lang="de" value="Programmdateien (x86)"/>
+    <STRING lang="en_GB" value="Program Files (x86)"/>
+    <STRING lang="es" value="Archivos de programa (x86)"/>
+    <STRING lang="fi" value="Ohjelmatiedostot (x86)"/>
+    <STRING lang="fr" value="Fichiers programme (x86)"/>
+    <STRING lang="it" value="Programmi (x86)"/>
+    <STRING lang="ja" value="プログラムファイル（x86）"/>
+    <STRING lang="ko" value="프로그램 파일 (x86)"/>
+    <STRING lang="nl" value="Programmabestanden (x86)"/>
+    <STRING lang="pl" value="Pliki programów (x86)"/>
+    <STRING lang="pt" value="Arquivos de Programa (x86)"/>
+    <STRING lang="pt_BR" value="Arquivos de Programa (x86)"/>
+    <STRING lang="ru" value="Программные файлы (x86)"/>
+    <STRING lang="sk" value="Programové súbory (x86)"/>
+    <STRING lang="sv" value="Programfiler (x86)"/>
+    <STRING lang="tr" value="Program Dosyaları (x86)"/>
+    <STRING lang="uk" value="Файли програми (x86)"/>
+    <STRING lang="zh" value="程序文件（x86）"/>
+    <STRING lang="zh_TW" value="程序文件（x86）"/>	
+  </ENTRY>
+  <ENTRY id="Control.Text.FolderDlg#No_Install_Folder_3">
+  	<STRING lang="ar" value="شبابيك"/>
+    <STRING lang="bg" value="Windows"/>
+	<STRING lang="de" value="Windows"/>
+	<STRING lang="en_GB" value="Windows"/>
+    <STRING lang="es" value="Ventanas"/>
+    <STRING lang="fi" value="Windows"/>
+    <STRING lang="fr" value="les fenêtres"/>
+    <STRING lang="it" value="finestre"/>
+    <STRING lang="ja" value="ウィンドウズ"/>
+    <STRING lang="ko" value="윈도우"/>
+    <STRING lang="nl" value="ramen"/>
+    <STRING lang="pl" value="Windows"/>
+    <STRING lang="pt" value="janelas"/>
+    <STRING lang="pt_BR" value="janelas"/>
+    <STRING lang="ru" value="Windows"/>
+    <STRING lang="sk" value="windows"/>
+    <STRING lang="sv" value="Windows"/>
+    <STRING lang="tr" value="pencereler"/>
+    <STRING lang="uk" value="Windows"/>
+    <STRING lang="zh" value="视窗"/>
+    <STRING lang="zh_TW" value="視窗"/>	
+  </ENTRY>
+  <ENTRY id="Control.Text.FolderDlg#No_Install_Folder_4">
+  	<STRING lang="ar" value="مستندات"/>
+    <STRING lang="bg" value="Документи"/>
+	<STRING lang="de" value="Unterlagen"/>
+	<STRING lang="en_GB" value="Documents"/>
+    <STRING lang="es" value="Documentos"/>
+    <STRING lang="fi" value="asiakirjat"/>
+    <STRING lang="fr" value="Les documents"/>
+    <STRING lang="it" value="Documenti"/>
+    <STRING lang="ja" value="書類"/>
+    <STRING lang="ko" value="서류"/>
+    <STRING lang="nl" value="Documenten"/>
+    <STRING lang="pl" value="Dokumenty"/>
+    <STRING lang="pt" value="Documentos"/>
+    <STRING lang="pt_BR" value="Documentos"/>
+    <STRING lang="ru" value="документы"/>
+    <STRING lang="sk" value="Dokumenty"/>
+    <STRING lang="sv" value="Dokument"/>
+    <STRING lang="tr" value="evraklar"/>
+    <STRING lang="uk" value="Документи"/>
+    <STRING lang="zh" value="文件资料"/>
+    <STRING lang="zh_TW" value="文件資料"/>	
+  </ENTRY>
+  <ENTRY id="Control.Text.FolderDlg#No_Install_Folder_5">
+  	<STRING lang="ar" value="التحميلات"/>
+    <STRING lang="bg" value="Downloads"/>
+	<STRING lang="de" value="Downloads"/>
+	<STRING lang="en_GB" value="Downloads"/>
+    <STRING lang="es" value="Descargas"/>
+    <STRING lang="fi" value="Lataukset"/>
+    <STRING lang="fr" value="Téléchargements"/>
+    <STRING lang="it" value="download"/>
+    <STRING lang="ja" value="ダウンロード"/>
+    <STRING lang="ko" value="다운로드"/>
+    <STRING lang="nl" value="Downloads"/>
+    <STRING lang="pl" value="Pliki do pobrania"/>
+    <STRING lang="pt" value="Transferências"/>
+    <STRING lang="pt_BR" value="Transferências"/>
+    <STRING lang="ru" value="Загрузки"/>
+    <STRING lang="sk" value="K stiahnutiu"/>
+    <STRING lang="sv" value="Nedladdningar"/>
+    <STRING lang="tr" value="İndirilenler"/>
+    <STRING lang="uk" value="Завантаження"/>
+    <STRING lang="zh" value="资料下载"/>
+    <STRING lang="zh_TW" value="資料下載"/>	
+  </ENTRY>
+  <ENTRY id="Control.Text.FolderDlg#No_Install_Folder_6">
+  	<STRING lang="ar" value="سطح المكتب"/>
+    <STRING lang="bg" value="работен плот"/>
+	<STRING lang="de" value="Desktop"/>
+	<STRING lang="en_GB" value="Desktop"/>
+    <STRING lang="es" value="Escritorio"/>
+    <STRING lang="fi" value="pöytä-"/>
+    <STRING lang="fr" value="Bureau"/>
+    <STRING lang="it" value="Desktop"/>
+    <STRING lang="ja" value="デスクトップ"/>
+    <STRING lang="ko" value="데스크탑"/>
+    <STRING lang="nl" value="Bureaublad"/>
+    <STRING lang="pl" value="Pulpit"/>
+    <STRING lang="pt" value="Área de Trabalho"/>
+    <STRING lang="pt_BR" value="Área de Trabalho"/>
+    <STRING lang="ru" value="рабочий стол"/>
+    <STRING lang="sk" value="Desktop"/>
+    <STRING lang="sv" value="Desktop"/>
+    <STRING lang="tr" value="Masaüstü"/>
+    <STRING lang="uk" value="Настільний"/>
+    <STRING lang="zh" value="桌面"/>
+    <STRING lang="zh_TW" value="桌面"/>	
+  </ENTRY>
+  <ENTRY id="Control.Text.FolderDlg#No_Install_Folder_7">
+  	<STRING lang="ar" value="موسيقى"/>
+    <STRING lang="bg" value="музика"/>
+	<STRING lang="de" value="Musik"/>
+	<STRING lang="en_GB" value="Music"/>
+    <STRING lang="es" value="Música"/>
+    <STRING lang="fi" value="musiikki"/>
+    <STRING lang="fr" value="La musique"/>
+    <STRING lang="it" value="Musica"/>
+    <STRING lang="ja" value="音楽"/>
+    <STRING lang="ko" value="음악"/>
+    <STRING lang="nl" value="Muziek"/>
+    <STRING lang="pl" value="Muzyka"/>
+    <STRING lang="pt" value="Música"/>
+    <STRING lang="pt_BR" value="Música"/>
+    <STRING lang="ru" value="Музыка"/>
+    <STRING lang="sk" value="hudba"/>
+    <STRING lang="sv" value="musik"/>
+    <STRING lang="tr" value="Müzik"/>
+    <STRING lang="uk" value="Музика"/>
+    <STRING lang="zh" value="音乐"/>
+    <STRING lang="zh_TW" value="音樂"/>	
+  </ENTRY>
+  <ENTRY id="Control.Text.FolderDlg#No_Install_Folder_8">
+  	<STRING lang="ar" value="صور"/>
+    <STRING lang="bg" value="Снимки"/>
+	<STRING lang="de" value="Bilder"/>
+	<STRING lang="en_GB" value="Pictures"/>
+    <STRING lang="es" value="Imágenes"/>
+    <STRING lang="fi" value="kuvat"/>
+    <STRING lang="fr" value="Des photos"/>
+    <STRING lang="it" value="Immagini"/>
+    <STRING lang="ja" value="ピクチャー"/>
+    <STRING lang="ko" value="영화"/>
+    <STRING lang="nl" value="Afbeeldingen"/>
+    <STRING lang="pl" value="Kino"/>
+    <STRING lang="pt" value="As fotos"/>
+    <STRING lang="pt_BR" value="As fotos"/>
+    <STRING lang="ru" value="Картинки"/>
+    <STRING lang="sk" value="obrázky"/>
+    <STRING lang="sv" value="Bilder"/>
+    <STRING lang="tr" value="Resimler"/>
+    <STRING lang="uk" value="Картинки"/>
+    <STRING lang="zh" value="图片"/>
+    <STRING lang="zh_TW" value="圖片"/>	
+  </ENTRY>
+  <ENTRY id="Control.Text.FolderDlg#No_Install_Folder_9">
+  	<STRING lang="ar" value="أشرطة فيديو"/>
+    <STRING lang="bg" value="Видео"/>
+	<STRING lang="de" value="Videos"/>
+	<STRING lang="en_GB" value="Videos"/>
+    <STRING lang="es" value="Videos"/>
+    <STRING lang="fi" value="Videot"/>
+    <STRING lang="fr" value="Vidéos"/>
+    <STRING lang="it" value="video"/>
+    <STRING lang="ja" value="ビデオ"/>
+    <STRING lang="ko" value="비디오"/>
+    <STRING lang="nl" value="Videos"/>
+    <STRING lang="pl" value="Wideo"/>
+    <STRING lang="pt" value="Vídeos"/>
+    <STRING lang="pt_BR" value="Vídeos"/>
+    <STRING lang="ru" value="Видео"/>
+    <STRING lang="sk" value="videá"/>
+    <STRING lang="sv" value="videoklipp"/>
+    <STRING lang="tr" value="Videolar"/>
+    <STRING lang="uk" value="Відео"/>
+    <STRING lang="zh" value="影片"/>
+    <STRING lang="zh_TW" value="影片"/>
+  </ENTRY>
   <ENTRY id="Control.Text.FolderDlg#Text">
     <STRING lang="ar" value="للتثبيت في هذا المجلد ، انقر فوق &apos;[Text_Next]&apos;. للتثبيت في مجلد مختلف ، أدخله أدناه."/>
-    <STRING lang="bg" value="Моля, не инсталирайте в следните папки:"/>
-    <STRING lang="de" value="Installeer alstublieft niet in de volgende mappen:"/>
+    <STRING lang="bg" value="За да инсталирате в тази папка, щракнете върху &apos;&apos;[Text_Next]&apos;&apos;. За да инсталирате в друга папка, въведете я по-долу."/>
+    <STRING lang="de" value="Um in diesem Ordner zu installieren, klicken Sie auf &apos;&apos;[Text_Next]&apos;&apos;. Um es in einem anderen Ordner zu installieren, geben Sie es unten ein."/>
     <STRING lang="en" value="To install in this folder, click &apos;[Text_Next]&apos;. To install to a different folder, enter it below."/>
-    <STRING lang="en_GB" value="Please do not install in the following folders:"/>
-    <STRING lang="es" value="No instale en las siguientes carpetas:"/>
-    <STRING lang="fi" value="Älä asenna seuraaviin kansioihin:"/>
-    <STRING lang="fr" value="PLACE HOLDER"/>
-    <STRING lang="it" value="Si prega di non installare nelle seguenti cartelle:"/>
-    <STRING lang="ja" value="次のフォルダにはインストールしないでください。"/>
-    <STRING lang="ko" value="이 폴더에 설치하려면 &apos;다음&apos;을 클릭하십시오. 다른 폴더에 설치하려면 아래에 입력하십시오."/>
-    <STRING lang="nl" value="Installeer alstublieft niet in de volgende mappen:"/>
-    <STRING lang="pl" value="Nie instaluj w następujących folderach:"/>
-    <STRING lang="pt" value="Por favor, não instale nas seguintes pastas:"/>
-    <STRING lang="pt_BR" value="Por favor, não instale nas seguintes pastas:"/>
-    <STRING lang="ru" value="Пожалуйста, не устанавливайте в следующие папки:"/>
-    <STRING lang="sk" value="Neinštalujte tieto priečinky:"/>
+    <STRING lang="en_GB" value="To install in this folder, click &apos;&apos;[Text_Next]&apos;&apos;. To install to a different folder, enter it below."/>
+    <STRING lang="es" value="Para instalar en esta carpeta, haga clic en &apos;&apos;[Text_Next]&apos;&apos;. Para instalar en una carpeta diferente, ingrésala a continuación."/>
+    <STRING lang="fi" value="Asentaaksesi tähän kansioon napsauta &apos;&apos;[Text_Next]&apos;&apos;. Asenna toiseen kansioon kirjoittamalla se alle."/>
+    <STRING lang="fr" value="Pour installer dans ce dossier, cliquez sur &apos;&apos;[Text_Next]&apos;&apos;. Pour installer dans un autre dossier, entrez-le ci-dessous."/>
+    <STRING lang="it" value="Per installare in questa cartella, fare clic su &apos;&apos;[Text_Next]&apos;&apos;. Per installare in un&apos;altra cartella, inseriscilo sotto."/>
+    <STRING lang="ja" value="このフォルダにインストールするには、&apos;&apos;[Text_Next]&apos;&apos;をクリックします。 別のフォルダにインストールするには、以下に入力してください。"/>
+    <STRING lang="ko" value="이 폴더에 설치하려면 &apos;&apos;[Text_Next]&apos;&apos; 을 클릭하십시오. 다른 폴더에 설치하려면 아래에 입력하십시오."/>
+    <STRING lang="nl" value="Klik op &apos;&apos;[Text_Next]&apos;&apos; om in deze map te installeren. Voer het hieronder in om het in een andere map te installeren."/>
+    <STRING lang="pl" value="Aby zainstalować w tym folderze, kliknij &apos;&apos;[Text_Next]&apos;&apos;. Aby zainstalować w innym folderze, wprowadź go poniżej."/>
+    <STRING lang="pt" value="Para instalar nesta pasta, clique em &apos;&apos;[Text_Next]&apos;&apos;. Para instalar em uma pasta diferente, digite-a abaixo."/>
+    <STRING lang="pt_BR" value="Para instalar nesta pasta, clique em &apos;&apos;[Text_Next]&apos;&apos;. Para instalar em uma pasta diferente, digite-a abaixo."/>
+    <STRING lang="ru" value="Чтобы установить в эту папку, нажмите &apos;&apos;[Text_Next]&apos;&apos;. Чтобы установить в другую папку, введите ее ниже."/>
+    <STRING lang="sk" value="Ak chcete nainštalovať tento priečinok, kliknite na &apos;&apos;[Text_Next]&apos;&apos;. Ak chcete nainštalovať do iného priečinka, zadajte ho nižšie."/>
     <STRING lang="sv" value="Klicka på &apos;&apos;[Text_Next]&apos;&apos; för att installera i den här mappen. För att installera i en annan mapp anger du den nedan."/>
     <STRING lang="tr" value="Bu klasöre yüklemek için &apos;&apos;[Text_Next]&apos;&apos; yi tıklayın. Farklı bir klasöre yüklemek için aşağıya girin."/>
     <STRING lang="uk" value="Щоб встановити цю папку, натисніть &apos;&apos;[Text_Next]&apos;&apos;. Щоб встановити іншу папку, введіть її нижче."/>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<DICTIONARY type="multilanguage">
+  <!-- Control table -->
+  <ENTRY id="Control.Text.FolderDlg#Text">
+    <STRING lang="ar" value="للتثبيت في هذا المجلد ، انقر فوق &apos;[Text_Next]&apos;. للتثبيت في مجلد مختلف ، أدخله أدناه."/>
+    <STRING lang="bg" value="Моля, не инсталирайте в следните папки:"/>
+    <STRING lang="de" value="Installeer alstublieft niet in de volgende mappen:"/>
+    <STRING lang="en" value="To install in this folder, click &apos;[Text_Next]&apos;. To install to a different folder, enter it below."/>
+    <STRING lang="en_GB" value="Please do not install in the following folders:"/>
+    <STRING lang="es" value="No instale en las siguientes carpetas:"/>
+    <STRING lang="fi" value="Älä asenna seuraaviin kansioihin:"/>
+    <STRING lang="fr" value="PLACE HOLDER"/>
+    <STRING lang="it" value="Si prega di non installare nelle seguenti cartelle:"/>
+    <STRING lang="ja" value="次のフォルダにはインストールしないでください。"/>
+    <STRING lang="ko" value="이 폴더에 설치하려면 &apos;다음&apos;을 클릭하십시오. 다른 폴더에 설치하려면 아래에 입력하십시오."/>
+    <STRING lang="nl" value="Installeer alstublieft niet in de volgende mappen:"/>
+    <STRING lang="pl" value="Nie instaluj w następujących folderach:"/>
+    <STRING lang="pt" value="Por favor, não instale nas seguintes pastas:"/>
+    <STRING lang="pt_BR" value="Por favor, não instale nas seguintes pastas:"/>
+    <STRING lang="ru" value="Пожалуйста, не устанавливайте в следующие папки:"/>
+    <STRING lang="sk" value="Neinštalujte tieto priečinky:"/>
+    <STRING lang="sv" value="Klicka på &apos;&apos;[Text_Next]&apos;&apos; för att installera i den här mappen. För att installera i en annan mapp anger du den nedan."/>
+    <STRING lang="tr" value="Bu klasöre yüklemek için &apos;&apos;[Text_Next]&apos;&apos; yi tıklayın. Farklı bir klasöre yüklemek için aşağıya girin."/>
+    <STRING lang="uk" value="Щоб встановити цю папку, натисніть &apos;&apos;[Text_Next]&apos;&apos;. Щоб встановити іншу папку, введіть її нижче."/>
+    <STRING lang="zh" value="要安装在此文件夹中，请单击&apos;&apos;[Text_Next]&apos;&apos;。 要安装到其他文件夹，请在下面输入。"/>
+    <STRING lang="zh_TW" value="要安裝在此文件夾中，請單擊&apos;&apos;[Text_Next]&apos;&apos;。 要安裝到其他文件夾，請在下面輸入。"/>
+  </ENTRY>
+  <ENTRY id="Control.Text.FolderDlg#TitleWarning">
+    <STRING lang="ar" value="يرجى عدم التثبيت في المجلدات التالية:"/>
+    <STRING lang="bg" value="Моля, не инсталирайте в следните папки:"/>
+    <STRING lang="de" value="Installeer alstublieft niet in de volgende mappen:"/>
+    <STRING lang="en" value="Please do not install in the following folders:"/>
+    <STRING lang="en_GB" value="Please do not install in the following folders:"/>
+    <STRING lang="es" value="No instale en las siguientes carpetas:"/>
+    <STRING lang="fi" value="Älä asenna seuraaviin kansioihin:"/>
+    <STRING lang="fr" value="Veuillez ne pas installer dans les dossiers suivants:"/>
+    <STRING lang="it" value="Si prega di non installare nelle seguenti cartelle:"/>
+    <STRING lang="ja" value="次のフォルダにはインストールしないでください。"/>
+    <STRING lang="ko" value="다음 폴더에 설치하지 마십시오 :"/>
+    <STRING lang="nl" value="Installeer alstublieft niet in de volgende mappen:"/>
+    <STRING lang="pl" value="Nie instaluj w następujących folderach:"/>
+    <STRING lang="pt" value="Por favor, não instale nas seguintes pastas:"/>
+    <STRING lang="pt_BR" value="Por favor, não instale nas seguintes pastas:"/>
+    <STRING lang="ru" value="Пожалуйста, не устанавливайте в следующие папки:"/>
+    <STRING lang="sk" value="Neinštalujte tieto priečinky:"/>
+    <STRING lang="sv" value="Installera inte i följande mappar:"/>
+    <STRING lang="tr" value="Lütfen aşağıdaki klasörlere kurmayın:"/>
+    <STRING lang="uk" value="Будь ласка, не встановлюйте в такі папки:"/>
+    <STRING lang="zh" value="请不要安装在以下文件夹中："/>
+    <STRING lang="zh_TW" value="請不要安裝在以下文件夾中："/>
+  </ENTRY>
+  <!-- Property table -->
+  <ENTRY id="Property.ARPCOMMENTS">
+    <STRING lang="ar" value="Arabic"/>
+    <STRING lang="bg" value="Bulgarian"/>
+    <STRING lang="de" value="German"/>
+    <STRING lang="en" value="DavidCarbon was Here! 😊"/>
+    <STRING lang="en_GB" value="DavidCarbon was Here! 😊"/>
+    <STRING lang="es" value="Spanish"/>
+    <STRING lang="fi" value="Finland"/>
+    <STRING lang="fr" value="French"/>
+    <STRING lang="it" value="Italian"/>
+    <STRING lang="ja" value="Japanese"/>
+    <STRING lang="ko" value="Korean"/>
+    <STRING lang="nl" value="Dutch"/>
+    <STRING lang="pl" value="Polish"/>
+    <STRING lang="pt" value="Portuguese (Portugal)"/>
+    <STRING lang="pt_BR" value="Portuguese (Brazil)"/>
+    <STRING lang="ru" value="Russian"/>
+    <STRING lang="sk" value="Slovak"/>
+    <STRING lang="sv" value="Swedish"/>
+    <STRING lang="tr" value="Turkish"/>
+    <STRING lang="uk" value="Ukrainian"/>
+    <STRING lang="zh" value="Chinese Simplified"/>
+    <STRING lang="zh_TW" value="Chinese Traditional"/>
+  </ENTRY>
+</DICTIONARY>

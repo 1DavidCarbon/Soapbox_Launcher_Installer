@@ -305,27 +305,27 @@
   </ENTRY>
   <!-- Property table -->
   <ENTRY id="Property.ARPCOMMENTS">
-    <STRING lang="ar" value="Arabic"/>
-    <STRING lang="bg" value="Bulgarian"/>
-    <STRING lang="de" value="German"/>
+    <STRING lang="ar" value="😊 كان DavidCarbon هنا!"/>
+    <STRING lang="bg" value="DavidCarbon беше тук! 😊"/>
+    <STRING lang="de" value="DavidCarbon war da! 😊"/>
     <STRING lang="en" value="DavidCarbon was Here! 😊"/>
     <STRING lang="en_GB" value="DavidCarbon was Here! 😊"/>
-    <STRING lang="es" value="Spanish"/>
-    <STRING lang="fi" value="Finland"/>
-    <STRING lang="fr" value="French"/>
-    <STRING lang="it" value="Italian"/>
-    <STRING lang="ja" value="Japanese"/>
-    <STRING lang="ko" value="Korean"/>
-    <STRING lang="nl" value="Dutch"/>
-    <STRING lang="pl" value="Polish"/>
-    <STRING lang="pt" value="Portuguese (Portugal)"/>
-    <STRING lang="pt_BR" value="Portuguese (Brazil)"/>
-    <STRING lang="ru" value="Russian"/>
-    <STRING lang="sk" value="Slovak"/>
-    <STRING lang="sv" value="Swedish"/>
-    <STRING lang="tr" value="Turkish"/>
-    <STRING lang="uk" value="Ukrainian"/>
-    <STRING lang="zh" value="Chinese Simplified"/>
-    <STRING lang="zh_TW" value="Chinese Traditional"/>
+    <STRING lang="es" value="DavidCarbon estuvo aquí! 😊"/>
+    <STRING lang="fi" value="DavidCarbon oli täällä! 😊"/>
+    <STRING lang="fr" value="DavidCarbon était là! 😊"/>
+    <STRING lang="it" value="DavidCarbon era qui! 😊"/>
+    <STRING lang="ja" value="DavidCarbonはここにいた！(≧◡≦)"/>
+    <STRING lang="ko" value="DavidCarbon이 여기있었습니다! 😊"/>
+    <STRING lang="nl" value="DavidCarbon was hier! 😊"/>
+    <STRING lang="pl" value="DavidCarbon był tutaj! 😊"/>
+    <STRING lang="pt" value="DavidCarbon estava aqui! 😊"/>
+    <STRING lang="pt_BR" value="DavidCarbon estava aqui! 😊"/>
+    <STRING lang="ru" value="Дэвид Карбон был здесь! 😊"/>
+    <STRING lang="sk" value="DavidCarbon tu bol! 😊"/>
+    <STRING lang="sv" value="DavidCarbon var här! 😊"/>
+    <STRING lang="tr" value="DavidCarbon buradaydı! 😊"/>
+    <STRING lang="uk" value="DavidCarbon був тут! 😊"/>
+    <STRING lang="zh" value="DavidCarbon在这里！ 😊"/>
+    <STRING lang="zh_TW" value="DavidCarbon在這裡！ 😊"/>
   </ENTRY>
 </DICTIONARY>

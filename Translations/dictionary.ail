@@ -4,26 +4,26 @@
   <ENTRY id="Control.Text.FolderDlg#No_Install_Folder">
 	<STRING lang="ar" value="ملفات البرنامج"/>
     <STRING lang="bg" value="Програмните файлове"/>
-    <STRING lang="de" value="Um in diesem Ordner zu installieren, klicken Sie auf &apos;&apos;[Text_Next]&apos;&apos;. Um es in einem anderen Ordner zu installieren, geben Sie es unten ein."/>
+    <STRING lang="de" value="Programmdateien"/>
     <STRING lang="en" value="Program Files"/>
     <STRING lang="en_GB" value="Program Files"/>
-    <STRING lang="es" value="Para instalar en esta carpeta, haga clic en &apos;&apos;[Text_Next]&apos;&apos;. Para instalar en una carpeta diferente, ingrésala a continuación."/>
-    <STRING lang="fi" value="Asentaaksesi tähän kansioon napsauta &apos;&apos;[Text_Next]&apos;&apos;. Asenna toiseen kansioon kirjoittamalla se alle."/>
-    <STRING lang="fr" value="Pour installer dans ce dossier, cliquez sur &apos;&apos;[Text_Next]&apos;&apos;. Pour installer dans un autre dossier, entrez-le ci-dessous."/>
-    <STRING lang="it" value="Per installare in questa cartella, fare clic su &apos;&apos;[Text_Next]&apos;&apos;. Per installare in un&apos;altra cartella, inseriscilo sotto."/>
-    <STRING lang="ja" value="このフォルダにインストールするには、&apos;&apos;[Text_Next]&apos;&apos;をクリックします。 別のフォルダにインストールするには、以下に入力してください。"/>
-    <STRING lang="ko" value="이 폴더에 설치하려면 &apos;&apos;[Text_Next]&apos;&apos; 을 클릭하십시오. 다른 폴더에 설치하려면 아래에 입력하십시오."/>
-    <STRING lang="nl" value="Klik op &apos;&apos;[Text_Next]&apos;&apos; om in deze map te installeren. Voer het hieronder in om het in een andere map te installeren."/>
-    <STRING lang="pl" value="Aby zainstalować w tym folderze, kliknij &apos;&apos;[Text_Next]&apos;&apos;. Aby zainstalować w innym folderze, wprowadź go poniżej."/>
-    <STRING lang="pt" value="Para instalar nesta pasta, clique em &apos;&apos;[Text_Next]&apos;&apos;. Para instalar em uma pasta diferente, digite-a abaixo."/>
-    <STRING lang="pt_BR" value="Para instalar nesta pasta, clique em &apos;&apos;[Text_Next]&apos;&apos;. Para instalar em uma pasta diferente, digite-a abaixo."/>
-    <STRING lang="ru" value="Чтобы установить в эту папку, нажмите &apos;&apos;[Text_Next]&apos;&apos;. Чтобы установить в другую папку, введите ее ниже."/>
-    <STRING lang="sk" value="Ak chcete nainštalovať tento priečinok, kliknite na &apos;&apos;[Text_Next]&apos;&apos;. Ak chcete nainštalovať do iného priečinka, zadajte ho nižšie."/>
-    <STRING lang="sv" value="Klicka på &apos;&apos;[Text_Next]&apos;&apos; för att installera i den här mappen. För att installera i en annan mapp anger du den nedan."/>
-    <STRING lang="tr" value="Bu klasöre yüklemek için &apos;&apos;[Text_Next]&apos;&apos; yi tıklayın. Farklı bir klasöre yüklemek için aşağıya girin."/>
-    <STRING lang="uk" value="Щоб встановити цю папку, натисніть &apos;&apos;[Text_Next]&apos;&apos;. Щоб встановити іншу папку, введіть її нижче."/>
-    <STRING lang="zh" value="要安装在此文件夹中，请单击&apos;&apos;[Text_Next]&apos;&apos;。 要安装到其他文件夹，请在下面输入。"/>
-    <STRING lang="zh_TW" value="要安裝在此文件夾中，請單擊&apos;&apos;[Text_Next]&apos;&apos;。 要安裝到其他文件夾，請在下面輸入。"/>
+    <STRING lang="es" value="Archivos de programa"/>
+    <STRING lang="fi" value="Ohjelmatiedostoja"/>
+    <STRING lang="fr" value="Fichiers de programme"/>
+    <STRING lang="it" value="File di programma"/>
+    <STRING lang="ja" value="プログラムファイル"/>
+    <STRING lang="ko" value="프로그램 파일"/>
+    <STRING lang="nl" value="Programmabestanden"/>
+    <STRING lang="pl" value="Pliki programów"/>
+    <STRING lang="pt" value="Arquivos de Programas"/>
+    <STRING lang="pt_BR" value="Arquivos de Programas"/>
+    <STRING lang="ru" value="Программные файлы"/>
+    <STRING lang="sk" value="Programové súbory"/>
+    <STRING lang="sv" value="Program filer"/>
+    <STRING lang="tr" value="Program dosyaları"/>
+    <STRING lang="uk" value="Програмні файли"/>
+    <STRING lang="zh" value="程序文件"/>
+    <STRING lang="zh_TW" value="程序文件"/>
   </ENTRY>
   <ENTRY id="Control.Text.FolderDlg#No_Install_Folder_10">
   	<STRING lang="ar" value="OneDrive"/>

@@ -37,7 +37,7 @@ Start & Finish Prompt             |  Default Directory & Features
 
 Change Prompt             |  Modify Features
 :-------------------------:|:-------------------------:
-![Change Prompt](/Images/Soapbox%20Installer%20(Modify%20Features).PNG) | ![Modify Features](/Images/Soapbox%20Installer%20(Modify).PNG)
+![Change Prompt](/Images/Soapbox%20Installer%20(Modify).PNG) | ![Modify Features](/Images/Soapbox%20Installer%20(Modify%20Features).PNG)
 <p align="center">
   <img src="/Images/Soapbox%20Installer%20(Firewall).PNG" alt="Windows Firewall Exceptions" />
 </p>

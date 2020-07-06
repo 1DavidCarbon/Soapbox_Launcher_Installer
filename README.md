@@ -30,11 +30,14 @@ Now you can! Visit the [patch notes txt file][installer patch notes].
 - [x] Admin Rights
 
 ### Screenshots
-Start & Finish Prompt             |  Default Directory
+Start & Finish Prompt             |  Default Directory & Features
 :-------------------------:|:-------------------------:
 ![Language Prompt](/Images/Soapbox%20Installer%20(Lang).PNG) | ![Default Directory](/Images/Soapbox%20Installer%20(Dir).PNG)
-![Finished Installation Prompt](/Images/Soapbox%20Installer%20(Launch).PNG) |
+![Finished Installation Prompt](/Images/Soapbox%20Installer%20(Launch).PNG) | ![Default Features](/Images/Soapbox%20Installer%20(Features).PNG)
 
+Change Prompt             |  Modify Features
+:-------------------------:|:-------------------------:
+![Change Prompt](/Images/Soapbox%20Installer%20(Modify Features).PNG) | ![Modify Features](/Images/Soapbox%20Installer%20(Modify).PNG)
 <p align="center">
   <img src="/Images/Soapbox%20Installer%20(Firewall).PNG" alt="Windows Firewall Exceptions" />
 </p>

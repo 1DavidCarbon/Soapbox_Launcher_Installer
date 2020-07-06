@@ -25,7 +25,7 @@ Now you can! Visit the [patch notes txt file][installer patch notes].
 - [x] Custom Directory
 
 ## Requirement to install Game Launcher
-- [X] .NET Framework 4.6
+- [X] .NET Framework 4.6 (Minimum)
 - [X] Windows Vista SP2 or Newer
 - [x] Admin Rights
 
@@ -37,7 +37,7 @@ Start & Finish Prompt             |  Default Directory & Features
 
 Change Prompt             |  Modify Features
 :-------------------------:|:-------------------------:
-![Change Prompt](/Images/Soapbox%20Installer%20(Modify Features).PNG) | ![Modify Features](/Images/Soapbox%20Installer%20(Modify).PNG)
+![Change Prompt](/Images/Soapbox%20Installer%20(Modify%20Features).PNG) | ![Modify Features](/Images/Soapbox%20Installer%20(Modify).PNG)
 <p align="center">
   <img src="/Images/Soapbox%20Installer%20(Firewall).PNG" alt="Windows Firewall Exceptions" />
 </p>

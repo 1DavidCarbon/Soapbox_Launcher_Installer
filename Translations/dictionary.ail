@@ -256,28 +256,28 @@
     <STRING lang="zh_TW" value="影片"/>
   </ENTRY>
   <ENTRY id="Control.Text.FolderDlg#Text">
-    <STRING lang="ar" value="للتثبيت في هذا المجلد ، انقر فوق &apos;[Text_Next]&apos;. للتثبيت في مجلد مختلف ، أدخله أدناه."/>
-    <STRING lang="bg" value="За да инсталирате в тази папка, щракнете върху &apos;&apos;[Text_Next]&apos;&apos;. За да инсталирате в друга папка, въведете я по-долу."/>
-    <STRING lang="de" value="Um in diesem Ordner zu installieren, klicken Sie auf &apos;&apos;[Text_Next]&apos;&apos;. Um es in einem anderen Ordner zu installieren, geben Sie es unten ein."/>
-    <STRING lang="en" value="To install in this folder, click &apos;[Text_Next]&apos;. To install to a different folder, enter it below."/>
-    <STRING lang="en_GB" value="To install in this folder, click &apos;&apos;[Text_Next]&apos;&apos;. To install to a different folder, enter it below."/>
-    <STRING lang="es" value="Para instalar en esta carpeta, haga clic en &apos;&apos;[Text_Next]&apos;&apos;. Para instalar en una carpeta diferente, ingrésala a continuación."/>
-    <STRING lang="fi" value="Asentaaksesi tähän kansioon napsauta &apos;&apos;[Text_Next]&apos;&apos;. Asenna toiseen kansioon kirjoittamalla se alle."/>
-    <STRING lang="fr" value="Pour installer dans ce dossier, cliquez sur &apos;&apos;[Text_Next]&apos;&apos;. Pour installer dans un autre dossier, entrez-le ci-dessous."/>
-    <STRING lang="it" value="Per installare in questa cartella, fare clic su &apos;&apos;[Text_Next]&apos;&apos;. Per installare in un&apos;altra cartella, inseriscilo sotto."/>
-    <STRING lang="ja" value="このフォルダにインストールするには、&apos;&apos;[Text_Next]&apos;&apos;をクリックします。 別のフォルダにインストールするには、以下に入力してください。"/>
-    <STRING lang="ko" value="이 폴더에 설치하려면 &apos;&apos;[Text_Next]&apos;&apos; 을 클릭하십시오. 다른 폴더에 설치하려면 아래에 입력하십시오."/>
-    <STRING lang="nl" value="Klik op &apos;&apos;[Text_Next]&apos;&apos; om in deze map te installeren. Voer het hieronder in om het in een andere map te installeren."/>
-    <STRING lang="pl" value="Aby zainstalować w tym folderze, kliknij &apos;&apos;[Text_Next]&apos;&apos;. Aby zainstalować w innym folderze, wprowadź go poniżej."/>
-    <STRING lang="pt" value="Para instalar nesta pasta, clique em &apos;&apos;[Text_Next]&apos;&apos;. Para instalar em uma pasta diferente, digite-a abaixo."/>
-    <STRING lang="pt_BR" value="Para instalar nesta pasta, clique em &apos;&apos;[Text_Next]&apos;&apos;. Para instalar em uma pasta diferente, digite-a abaixo."/>
-    <STRING lang="ru" value="Чтобы установить в эту папку, нажмите &apos;&apos;[Text_Next]&apos;&apos;. Чтобы установить в другую папку, введите ее ниже."/>
-    <STRING lang="sk" value="Ak chcete nainštalovať tento priečinok, kliknite na &apos;&apos;[Text_Next]&apos;&apos;. Ak chcete nainštalovať do iného priečinka, zadajte ho nižšie."/>
-    <STRING lang="sv" value="Klicka på &apos;&apos;[Text_Next]&apos;&apos; för att installera i den här mappen. För att installera i en annan mapp anger du den nedan."/>
-    <STRING lang="tr" value="Bu klasöre yüklemek için &apos;&apos;[Text_Next]&apos;&apos; yi tıklayın. Farklı bir klasöre yüklemek için aşağıya girin."/>
-    <STRING lang="uk" value="Щоб встановити цю папку, натисніть &apos;&apos;[Text_Next]&apos;&apos;. Щоб встановити іншу папку, введіть її нижче."/>
-    <STRING lang="zh" value="要安装在此文件夹中，请单击&apos;&apos;[Text_Next]&apos;&apos;。 要安装到其他文件夹，请在下面输入。"/>
-    <STRING lang="zh_TW" value="要安裝在此文件夾中，請單擊&apos;&apos;[Text_Next]&apos;&apos;。 要安裝到其他文件夾，請在下面輸入。"/>
+    <STRING lang="ar" value="للتثبيت في محرك الأقراص هذا ، انقر فوق &apos;[Text_Next]&apos;. للتثبيت على محرك أقراص مختلف ، قم بتغييره من خلال القائمة المنسدلة."/>
+    <STRING lang="bg" value="За да инсталирате в това устройство, щракнете върху &apos;&apos;[Text_Next]&apos;&apos;. За да инсталирате на друго устройство, променете го с падащото меню."/>
+    <STRING lang="de" value="Klicken Sie zum Installieren auf diesem Laufwerk auf &apos;&apos;[Text_Next]&apos;&apos;. Um es auf einem anderen Laufwerk zu installieren, ändern Sie es über das Dropdown-Menü."/>
+    <STRING lang="en" value="To install in this drive, click &apos;[Text_Next]&apos;. To install to a different drive, change it with the drop down menu."/>
+    <STRING lang="en_GB" value="To install in this drive, click &apos;&apos;[Text_Next]&apos;&apos;. To install to a different drive, change it with the drop down menu."/>
+    <STRING lang="es" value="Para instalar en esta unidad, haga clic en &apos;&apos;[Text_Next]&apos;&apos;. Para instalarlo en una unidad diferente, cámbielo con el menú desplegable."/>
+    <STRING lang="fi" value="Asenna tämä asema napsauttamalla &apos;&apos;[Text_Next]&apos;&apos;. Jos haluat asentaa toisen aseman, muuta sitä pudotusvalikosta."/>
+    <STRING lang="fr" value="Pour l'installer sur ce lecteur, cliquez sur &apos;&apos;[Text_Next]&apos;&apos;. Pour installer sur un autre lecteur, changez-le avec le menu déroulant."/>
+    <STRING lang="it" value="Per installare in questa unità, fare clic su &apos;&apos;[Text_Next]&apos;&apos;. Per eseguire l'installazione su un'unità diversa, modificala con il menu a discesa."/>
+    <STRING lang="ja" value="このドライブにインストールするには、&apos;&apos;[Text_Next]&apos;&apos;をクリックします。 別のドライブにインストールするには、ドロップダウンメニューでドライブを変更します。"/>
+    <STRING lang="ko" value="이 드라이브에 설치하려면 &apos;&apos;[Text_Next]&apos;&apos;를 클릭합니다. 다른 드라이브에 설치하려면 드롭 다운 메뉴를 사용하여 변경하십시오."/>
+    <STRING lang="nl" value="Klik op &apos;&apos;[Text_Next]&apos;&apos; om in dit station te installeren. Om op een andere schijf te installeren, wijzigt u deze met het vervolgkeuzemenu."/>
+    <STRING lang="pl" value="Aby zainstalować na tym dysku, kliknij &apos;&apos;[Text_Next]&apos;&apos;. Aby zainstalować na innym dysku, zmień go za pomocą menu rozwijanego."/>
+    <STRING lang="pt" value="Para instalar nesta unidade, clique em &apos;&apos;[Text_Next]&apos;&apos;. Para instalar em uma unidade diferente, altere-o com o menu suspenso."/>
+    <STRING lang="pt_BR" value="Para instalar nesta unidade, clique em &apos;&apos;[Text_Next]&apos;&apos;. Para instalar em uma unidade diferente, altere-o com o menu suspenso."/>
+    <STRING lang="ru" value="Чтобы установить на этот диск, нажмите &apos;&apos;[Text_Next]&apos;&apos;. Чтобы установить на другой диск, измените его в раскрывающемся меню."/>
+    <STRING lang="sk" value="Ak chcete nainštalovať na túto jednotku, kliknite na tlačidlo &apos;&apos;[Text_Next]&apos;&apos;. Ak chcete nainštalovať na inú jednotku, zmeňte ju pomocou rozbaľovacej ponuky."/>
+    <STRING lang="sv" value="Klicka på &apos;&apos;[Text_Next]&apos;&apos; för att installera på den här enheten. För att installera till en annan enhet, ändra den med rullgardinsmenyn."/>
+    <STRING lang="tr" value="Bu sürücüye kurmak için &apos;&apos;[Text_Next]&apos;&apos; 'ye tıklayın. Farklı bir sürücüye kurmak için, açılır menü ile değiştirin."/>
+    <STRING lang="uk" value="Щоб встановити на цей диск, натисніть &apos;&apos;[Text_Next]&apos;&apos;. Щоб встановити на інший диск, змініть його за допомогою випадаючого меню."/>
+    <STRING lang="zh" value="要安装在该驱动器中，请单击&apos;&apos;[Text_Next]&apos;&apos;。 要安装到其他驱动器，请使用下拉菜单进行更改。"/>
+    <STRING lang="zh_TW" value="要安裝在該驅動器中，請單擊&apos;&apos;[Text_Next]&apos;&apos;。 要安裝到其他驅動器，請使用下拉菜單進行更改。"/>
   </ENTRY>
   <ENTRY id="Control.Text.FolderDlg#TitleWarning">
     <STRING lang="ar" value="يرجى عدم التثبيت في المجلدات التالية:"/>

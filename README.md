@@ -51,6 +51,6 @@ A Rewrite of GameLauncher taken from Need For Speed: World
 - [X] Self-Signed Code Sign Certificate
 
 ### Screenshot
-![](https://raw.githubusercontent.com/SoapboxRaceWorld/GameLauncher_NFSW/interface_v3/screenshot.png)
+![](https://raw.githubusercontent.com/SoapboxRaceWorld/GameLauncher_NFSW/main_v3/screenshot.png)
 
 (Source: [Soapbox Race World](https://github.com/SoapboxRaceWorld/GameLauncher_NFSW))

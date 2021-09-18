@@ -17,16 +17,15 @@ Now you can! Visit the [patch notes txt file][installer patch notes].
 [installer patch notes]: https://1davidcarbon.gitlab.io/soapbox-installer-releases-download/Update%20History.txt
 
 ## Included in Installer Version
-- .NET Framework 4.6 (Web Installer)
+- .NET Framework 4.6.1 & 4.6.2 (Web Installer)
 - Official Game Launcher
 - Tools
   - Vinyl Manager
-- [X] Windows Firewall Exception
 - [x] Custom Directory
 
 ## Requirement to install Game Launcher
-- [X] .NET Framework 4.6 (Minimum)
-- [X] Windows Vista SP2 or Newer
+- [X] .NET Framework [4.6.1 on Windows 8] / [4.6.2 (Minimum)]
+- [X] Windows 7 SP1 or Newer
 - [x] Admin Rights
 
 ### Screenshots
@@ -38,18 +37,18 @@ Start & Finish Prompt             |  Default Directory & Features
 Change Prompt             |  Modify Features
 :-------------------------:|:-------------------------:
 ![Change Prompt](/Images/Soapbox%20Installer%20(Modify).PNG) | ![Modify Features](/Images/Soapbox%20Installer%20(Modify%20Features).PNG)
-<p align="center">
-  <img src="/Images/Soapbox%20Installer%20(Firewall).PNG" alt="Windows Firewall Exceptions" />
-</p>
 
 # GameLauncher_NFSW [![Build Status](https://github.com/1DavidCarbon/GameLauncher_NFSW/workflows/Build%20Status/badge.svg)](https://github.com/1DavidCarbon/GameLauncher_NFSW/actions)
 A Rewrite of GameLauncher taken from Need For Speed: World
 
 ## Todo
-- [X] Downloader?
-- [X] Validate files
-- [X] Complete UI
-- [X] Original fonts
+- [X] Game Client Downloader
+- [X] UserSettings.xml Editor
+- [X] Game Files Validator
+- [X] Firewall Checker
+- [X] Windows Defender (Windows 10 Only)
+- [X] Discord Rich Presense / RemoteRPC
+- [X] Self-Signed Code Sign Certificate
 
 ### Screenshot
 ![](https://raw.githubusercontent.com/SoapboxRaceWorld/GameLauncher_NFSW/interface_v3/screenshot.png)
